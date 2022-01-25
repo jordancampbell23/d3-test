@@ -1,0 +1,3233 @@
+geo,Name,State,Value,Percent
+1001,Autauga,Alabama,228.7077057,NA
+1003,Baldwin,Alabama,145.2394812,0.033117243
+1005,Barbour,Alabama,105.7553661,NA
+1007,Bibb,Alabama,219.6624802,NA
+1009,Blount,Alabama,179.8185574,1.803562035
+1011,Bullock,Alabama,96.75271498,NA
+1013,Butler,Alabama,110.7055585,0.033141847
+1015,Calhoun,Alabama,123.6342506,NA
+1017,Chambers,Alabama,186.0969303,NA
+1019,Cherokee,Alabama,153.9227777,0.126139763
+1021,Chilton,Alabama,138.8555143,NA
+1023,Choctaw,Alabama,202.4784438,NA
+1025,Clarke,Alabama,65.57215639,NA
+1027,Clay,Alabama,90.0060326,0.017140898
+1029,Cleburne,Alabama,133.3252839,0.037731103
+1031,Coffee,Alabama,232.9105974,NA
+1033,Colbert,Alabama,102.8411648,NA
+1035,Conecuh,Alabama,193.6054319,NA
+1037,Coosa,Alabama,146.9457909,NA
+1039,Covington,Alabama,71.27230331,NA
+1041,Crenshaw,Alabama,76.20686305,NA
+1043,Cullman,Alabama,104.5118488,NA
+1045,Dale,Alabama,152.253342,NA
+1047,Dallas,Alabama,61.8683694,NA
+1049,De Kalb,Alabama,135.584204,NA
+1051,Elmore,Alabama,141.7842124,0.022117043
+1053,Escambia,Alabama,177.8150866,0.123483303
+1055,Etowah,Alabama,47.67473927,0.45268328
+1057,Fayette,Alabama,138.077841,NA
+1059,Franklin,Alabama,142.3575611,NA
+1061,Geneva,Alabama,102.5052609,NA
+1063,Greene,Alabama,133.8115181,NA
+1065,Hale,Alabama,222.0058726,NA
+1067,Henry,Alabama,108.2292338,NA
+1069,Houston,Alabama,44.54826493,NA
+1071,Jackson,Alabama,210.3135683,0.005319149
+1073,Jefferson,Alabama,64.10825493,NA
+1075,Lamar,Alabama,85.53292584,NA
+1077,Lauderdale,Alabama,140.719082,0.005159027
+1079,Lawrence,Alabama,170.7409679,NA
+1081,Lee,Alabama,145.7239496,NA
+1083,Limestone,Alabama,203.1023606,NA
+1085,Lowndes,Alabama,99.98276574,NA
+1087,Macon,Alabama,167.897944,NA
+1089,Madison,Alabama,92.10119547,0.020053709
+1091,Marengo,Alabama,76.60955307,NA
+1093,Marion,Alabama,177.6121993,NA
+1095,Marshall,Alabama,127.7906069,NA
+1097,Mobile,Alabama,175.9383216,NA
+1099,Monroe,Alabama,96.42772997,NA
+1101,Montgomery,Alabama,108.9810622,0.02584416
+1103,Morgan,Alabama,215.2118717,NA
+1105,Perry,Alabama,100.4056912,NA
+1107,Pickens,Alabama,143.9860778,NA
+1109,Pike,Alabama,161.4572895,NA
+1111,Randolph,Alabama,168.0405843,NA
+1113,Russell,Alabama,185.0032007,NA
+1115,St Clair,Alabama,161.4670179,NA
+1117,Shelby,Alabama,129.162539,NA
+1119,Sumter,Alabama,149.0856462,NA
+1121,Talladega,Alabama,122.6602855,NA
+1123,Tallapoosa,Alabama,152.7907003,NA
+1125,Tuscaloosa,Alabama,158.1361151,NA
+1127,Walker,Alabama,229.8594277,NA
+1129,Washington,Alabama,213.7177193,NA
+1131,Wilcox,Alabama,254.2425128,NA
+1133,Winston,Alabama,47.96860096,0.822794454
+2013,Aleutians East,Alaska,217.1182389,NA
+2016,Aleutians West,Alaska,130.0565593,NA
+2020,Anchorage,Alaska,145.4587975,NA
+2050,Bethel,Alaska,164.3007333,NA
+2060,Bristol Bay,Alaska,132.5176085,NA
+2068,Denali,Alaska,199.0747542,NA
+2070,Dillingham,Alaska,114.7873395,NA
+2090,Fairbanks North Star,Alaska,65.61604165,NA
+2100,Haines,Alaska,100.0343155,NA
+2110,Juneau,Alaska,37.54754496,NA
+2122,Kenai Peninsula,Alaska,209.8562612,NA
+2130,Ketchikan Gateway,Alaska,147.374864,NA
+2150,Kodiak Island,Alaska,199.3797808,NA
+2164,Lake and Peninsula,Alaska,178.5627821,NA
+2170,Matanuska Susitna,Alaska,150.8158101,NA
+2180,Nome,Alaska,223.4613998,NA
+2185,North Slope,Alaska,102.7380557,NA
+2188,Northwest Arctic,Alaska,89.95827321,NA
+2201,Prince Wales Ketchikan,Alaska,173.0943751,NA
+2220,Sitka,Alaska,189.1339777,NA
+2232,Skagway Hoonah Angoon,Alaska,129.9032632,NA
+2240,Southeast Fairbanks,Alaska,187.6898563,NA
+2261,Valdez Cordova,Alaska,142.2480433,NA
+2270,Wade Hampton,Alaska,149.5984928,NA
+2280,Wrangell Petersburg,Alaska,165.8405383,NA
+2282,Yakutat,Alaska,109.0454579,NA
+2290,Yukon Koyukuk,Alaska,121.4451595,NA
+4001,Apache,Arizona,118.0818082,NA
+4003,Cochise,Arizona,111.9465937,NA
+4005,Coconino,Arizona,89.79998243,NA
+4007,Gila,Arizona,151.1856947,NA
+4009,Graham,Arizona,120.7533265,NA
+4011,Greenlee,Arizona,126.7071182,NA
+4012,La Paz,Arizona,205.6280183,NA
+4013,Maricopa,Arizona,139.7022562,NA
+4015,Mohave,Arizona,214.0691427,NA
+4017,Navajo,Arizona,72.90259009,NA
+4019,Pima,Arizona,121.9384962,NA
+4021,Pinal,Arizona,128.0574279,NA
+4023,Santa Cruz,Arizona,110.3292316,NA
+4025,Yavapai,Arizona,114.2108553,NA
+4027,Yuma,Arizona,132.2139049,NA
+5001,Arkansas,Arkansas,98.06471328,NA
+5003,Ashley,Arkansas,118.6611835,NA
+5005,Baxter,Arkansas,71.25728444,NA
+5007,Benton,Arkansas,188.1166508,NA
+5009,Boone,Arkansas,168.682983,NA
+5011,Bradley,Arkansas,120.5877269,NA
+5013,Calhoun,Arkansas,89.85058808,NA
+5015,Carroll,Arkansas,244.1328438,NA
+5017,Chicot,Arkansas,103.7241236,NA
+5019,Clark,Arkansas,97.91633916,NA
+5021,Clay,Arkansas,205.7353508,NA
+5023,Cleburne,Arkansas,110.2755478,NA
+5025,Cleveland,Arkansas,140.5660385,NA
+5027,Columbia,Arkansas,32.63273917,NA
+5029,Conway,Arkansas,87.4441955,NA
+5031,Craighead,Arkansas,122.0229874,NA
+5033,Crawford,Arkansas,154.9037493,NA
+5035,Crittenden,Arkansas,163.1422385,NA
+5037,Cross,Arkansas,57.29887787,NA
+5039,Dallas,Arkansas,260.219594,NA
+5041,Desha,Arkansas,106.0275978,NA
+5043,Drew,Arkansas,162.2454006,NA
+5045,Faulkner,Arkansas,157.6590158,NA
+5047,Franklin,Arkansas,85.41298123,NA
+5049,Fulton,Arkansas,129.4041961,NA
+5051,Garland,Arkansas,229.35189,NA
+5053,Grant,Arkansas,43.56764622,NA
+5055,Greene,Arkansas,104.2725148,NA
+5057,Hempstead,Arkansas,106.6166969,NA
+5059,Hot Spring,Arkansas,110.8890412,NA
+5061,Howard,Arkansas,170.0140388,NA
+5063,Independence,Arkansas,116.3782643,NA
+5065,Izard,Arkansas,121.9840441,NA
+5067,Jackson,Arkansas,181.0185973,NA
+5069,Jefferson,Arkansas,113.0353098,NA
+5071,Johnson,Arkansas,173.2913186,NA
+5073,Lafayette,Arkansas,205.1832105,NA
+5075,Lawrence,Arkansas,101.1813471,NA
+5077,Lee,Arkansas,135.6547216,NA
+5079,Lincoln,Arkansas,58.46448739,NA
+5081,Little River,Arkansas,136.5812317,NA
+5083,Logan,Arkansas,151.4013636,NA
+5085,Lonoke,Arkansas,119.2024398,NA
+5087,Madison,Arkansas,8.78310409,NA
+5089,Marion,Arkansas,38.52479804,NA
+5091,Miller,Arkansas,122.1343799,NA
+5093,Mississippi,Arkansas,120.9563603,NA
+5095,Monroe,Arkansas,233.0101621,NA
+5099,Nevada,Arkansas,163.4369538,NA
+5101,Newton,Arkansas,50.0069691,NA
+5103,Ouachita,Arkansas,158.3378533,NA
+5105,Perry,Arkansas,178.7071448,NA
+5107,Phillips,Arkansas,23.63192238,NA
+5109,Pike,Arkansas,154.2093832,NA
+5111,Poinsett,Arkansas,148.8766077,NA
+5113,Polk,Arkansas,142.3040502,NA
+5115,Pope,Arkansas,49.57556315,NA
+5117,Prairie,Arkansas,124.4060009,NA
+5119,Pulaski,Arkansas,159.3512302,NA
+5121,Randolph,Arkansas,89.4247268,NA
+5123,St Francis,Arkansas,147.9708897,NA
+5125,Saline,Arkansas,190.9581474,NA
+5127,Scott,Arkansas,135.9330068,NA
+5129,Searcy,Arkansas,89.54555722,NA
+5131,Sebastian,Arkansas,144.7428839,NA
+5133,Sevier,Arkansas,113.7886517,NA
+5135,Sharp,Arkansas,124.0570251,NA
+5137,Stone,Arkansas,168.480426,NA
+5139,Union,Arkansas,98.31049027,NA
+5141,Van Buren,Arkansas,160.5486478,NA
+5143,Washington,Arkansas,149.5812501,NA
+5145,White,Arkansas,162.4273026,NA
+5147,Woodruff,Arkansas,92.49562492,NA
+5149,Yell,Arkansas,150.0348085,NA
+6001,Alameda,California,92.75504683,NA
+6003,Alpine,California,193.8153773,NA
+6005,Amador,California,192.5697708,NA
+6007,Butte,California,171.8750658,NA
+6009,Calaveras,California,195.1389157,NA
+6011,Colusa,California,131.9302031,NA
+6013,Contra Costa,California,253.136754,NA
+6015,Del Norte,California,156.8044772,NA
+6017,El Dorado,California,138.1586155,NA
+6019,Fresno,California,62.96453436,NA
+6021,Glenn,California,120.3689754,NA
+6023,Humboldt,California,99.28931245,NA
+6025,Imperial,California,153.5975399,NA
+6027,Inyo,California,90.34757616,NA
+6029,Kern,California,149.0756651,NA
+6031,Kings,California,150.295745,NA
+6033,Lake,California,133.1255546,NA
+6035,Lassen,California,47.30090541,NA
+6037,Los Angeles,California,113.2636528,NA
+6039,Madera,California,159.7321556,NA
+6041,Marin,California,134.5615299,NA
+6043,Mariposa,California,69.66836091,NA
+6045,Mendocino,California,127.465604,NA
+6047,Merced,California,58.66447945,NA
+6049,Modoc,California,115.1390568,NA
+6051,Mono,California,86.42009709,NA
+6053,Monterey,California,164.6056957,NA
+6055,Napa,California,18.38561869,NA
+6057,Nevada,California,236.6982365,NA
+6059,Orange,California,184.4366249,NA
+6061,Placer,California,163.7168291,NA
+6063,Plumas,California,26.99922864,NA
+6065,Riverside,California,186.8888905,NA
+6067,Sacramento,California,130.1604763,NA
+6069,San Benito,California,1.114613249,NA
+6071,San Bernardino,California,191.1486798,NA
+6073,San Diego,California,106.6968703,NA
+6075,San Francisco,California,192.9412308,NA
+6077,San Joaquin,California,73.40655836,NA
+6079,San Luis Obispo,California,91.0545526,NA
+6081,San Mateo,California,221.6996736,NA
+6083,Santa Barbara,California,169.7153783,NA
+6085,Santa Clara,California,138.3932578,NA
+6087,Santa Cruz,California,149.6464266,NA
+6089,Shasta,California,157.8363307,NA
+6091,Sierra,California,195.620825,NA
+6093,Siskiyou,California,116.0791342,NA
+6095,Solano,California,112.5946763,NA
+6097,Sonoma,California,91.17232569,NA
+6099,Stanislaus,California,91.65746759,NA
+6101,Sutter,California,84.9215119,NA
+6103,Tehama,California,126.9064042,NA
+6105,Trinity,California,165.1113235,NA
+6107,Tulare,California,170.3534859,NA
+6109,Tuolumne,California,60.65638927,NA
+6111,Ventura,California,146.3271832,NA
+6113,Yolo,California,233.3245336,NA
+6115,Yuba,California,142.2914915,NA
+8001,Adams,Colorado,123.1156918,NA
+8003,Alamosa,Colorado,166.2214787,NA
+8005,Arapahoe,Colorado,179.4371827,NA
+8007,Archuleta,Colorado,119.7173398,NA
+8009,Baca,Colorado,138.3597777,NA
+8011,Bent,Colorado,113.4102737,NA
+8013,Boulder,Colorado,86.54479965,NA
+8014,Broomfield,Colorado,157.5973695,NA
+8015,Chaffee,Colorado,145.1730417,NA
+8017,Cheyenne,Colorado,129.0405033,NA
+8019,Clear Creek,Colorado,139.2887616,NA
+8021,Conejos,Colorado,97.67893371,NA
+8023,Costilla,Colorado,101.3261087,NA
+8025,Crowley,Colorado,121.8998994,NA
+8027,Custer,Colorado,163.0376551,NA
+8029,Delta,Colorado,120.844233,NA
+8031,Denver,Colorado,9.439422897,NA
+8033,Dolores,Colorado,192.1641109,NA
+8035,Douglas,Colorado,132.0125126,NA
+8037,Eagle,Colorado,216.4361541,NA
+8039,Elbert,Colorado,93.48709476,NA
+8041,El Paso,Colorado,212.8259447,NA
+8043,Fremont,Colorado,154.9156292,NA
+8045,Garfield,Colorado,215.8463629,NA
+8047,Gilpin,Colorado,115.9815756,NA
+8049,Grand,Colorado,18.69175455,NA
+8051,Gunnison,Colorado,44.65271233,NA
+8053,Hinsdale,Colorado,25.46246008,NA
+8055,Huerfano,Colorado,140.6101431,NA
+8057,Jackson,Colorado,143.8612238,NA
+8059,Jefferson,Colorado,133.6399409,NA
+8061,Kiowa,Colorado,146.7474593,NA
+8063,Kit Carson,Colorado,89.31097602,NA
+8065,Lake,Colorado,97.10158684,NA
+8067,La Plata,Colorado,71.12903221,NA
+8069,Larimer,Colorado,140.6797591,NA
+8071,Las Animas,Colorado,125.3526355,NA
+8073,Lincoln,Colorado,126.6262132,NA
+8075,Logan,Colorado,156.0312024,NA
+8077,Mesa,Colorado,124.9333383,NA
+8079,Mineral,Colorado,131.3074803,NA
+8081,Moffat,Colorado,202.6361946,NA
+8083,Montezuma,Colorado,168.8105272,NA
+8085,Montrose,Colorado,155.7778706,NA
+8087,Morgan,Colorado,75.14806307,NA
+8089,Otero,Colorado,141.405932,NA
+8091,Ouray,Colorado,147.9289574,NA
+8093,Park,Colorado,157.3946685,NA
+8095,Phillips,Colorado,97.99043602,NA
+8097,Pitkin,Colorado,155.1452613,NA
+8099,Prowers,Colorado,74.35916677,NA
+8101,Pueblo,Colorado,104.3676382,NA
+8103,Rio Blanco,Colorado,27.51874824,NA
+8105,Rio Grande,Colorado,115.5819016,NA
+8107,Routt,Colorado,111.3229249,NA
+8109,Saguache,Colorado,137.5788625,NA
+8111,San Juan,Colorado,86.88437724,NA
+8113,San Miguel,Colorado,109.1285247,NA
+8115,Sedgwick,Colorado,47.25357553,NA
+8117,Summit,Colorado,192.6654026,NA
+8119,Teller,Colorado,118.8166537,NA
+8121,Washington,Colorado,96.7673862,NA
+8123,Weld,Colorado,162.1062084,NA
+8125,Yuma,Colorado,227.9947737,NA
+9001,Fairfield,Connecticut,172.3971179,NA
+9003,Hartford,Connecticut,191.6388831,NA
+9005,Litchfield,Connecticut,76.55216477,NA
+9007,Middlesex,Connecticut,215.5568788,NA
+9009,New Haven,Connecticut,115.1903187,NA
+9011,New London,Connecticut,134.6963466,NA
+9013,Tolland,Connecticut,92.01751203,NA
+9015,Windham,Connecticut,145.4790724,NA
+10001,Kent,Delaware,105.0859081,NA
+10003,New Castle,Delaware,168.0607913,NA
+10005,Sussex,Delaware,101.5639031,NA
+11001,District of Columbia,District of Columbia,117.2771455,NA
+11031,Montgomery,District of Columbia,56.24466961,NA
+12001,Alachua,Florida,75.4674811,NA
+12003,Baker,Florida,86.81234453,NA
+12005,Bay,Florida,100.1568511,NA
+12007,Bradford,Florida,127.4047526,NA
+12009,Brevard,Florida,163.5692082,NA
+12011,Broward,Florida,144.8924301,NA
+12013,Calhoun,Florida,53.41454368,NA
+12015,Charlotte,Florida,116.8803769,NA
+12017,Citrus,Florida,173.7291575,NA
+12019,Clay,Florida,172.6494641,NA
+12021,Collier,Florida,146.2904865,NA
+12023,Columbia,Florida,141.9363623,NA
+12027,De Soto,Florida,90.23333151,NA
+12029,Dixie,Florida,156.8142389,NA
+12031,Duval,Florida,219.690059,NA
+12033,Escambia,Florida,110.9870299,NA
+12035,Flagler,Florida,144.2333246,NA
+12037,Franklin,Florida,126.7913796,NA
+12039,Gadsden,Florida,26.18080717,NA
+12041,Gilchrist,Florida,189.7449542,NA
+12043,Glades,Florida,180.1470665,NA
+12045,Gulf,Florida,169.0254155,NA
+12047,Hamilton,Florida,75.99848106,NA
+12049,Hardee,Florida,93.81146446,NA
+12051,Hendry,Florida,157.1082678,NA
+12053,Hernando,Florida,53.03625309,NA
+12055,Highlands,Florida,157.8849935,NA
+12057,Hillsborough,Florida,155.791174,NA
+12059,Holmes,Florida,52.13194546,NA
+12061,Indian River,Florida,136.1007693,NA
+12063,Jackson,Florida,82.98875533,NA
+12065,Jefferson,Florida,76.13687729,NA
+12067,Lafayette,Florida,151.7438257,NA
+12069,Lake,Florida,96.99406373,NA
+12071,Lee,Florida,83.72795923,NA
+12073,Leon,Florida,63.06146072,NA
+12075,Levy,Florida,120.1771242,NA
+12077,Liberty,Florida,58.45195002,NA
+12079,Madison,Florida,230.7144528,NA
+12081,Manatee,Florida,188.8197186,NA
+12083,Marion,Florida,224.2238291,NA
+12085,Martin,Florida,130.1681262,NA
+12086,Miami-Dade,Florida,172.9325422,NA
+12087,Monroe,Florida,205.2406579,NA
+12089,Nassau,Florida,95.05153838,NA
+12091,Okaloosa,Florida,128.8005545,NA
+12093,Okeechobee,Florida,98.04571434,NA
+12095,Orange,Florida,246.3264642,NA
+12097,Osceola,Florida,47.09660236,NA
+12099,Palm Beach,Florida,202.4385431,NA
+12101,Pasco,Florida,78.57014408,NA
+12103,Pinellas,Florida,80.33214882,NA
+12105,Polk,Florida,199.9322308,NA
+12107,Putnam,Florida,89.12667357,NA
+12109,St Johns,Florida,189.8500806,NA
+12111,St Lucie,Florida,120.2800997,NA
+12113,Santa Rosa,Florida,187.0446334,NA
+12115,Sarasota,Florida,119.3005482,NA
+12117,Seminole,Florida,111.8077405,NA
+12119,Sumter,Florida,106.7477259,NA
+12121,Suwannee,Florida,163.7709652,NA
+12123,Taylor,Florida,76.70701951,NA
+12125,Union,Florida,57.53737998,NA
+12127,Volusia,Florida,105.9694277,NA
+12129,Wakulla,Florida,68.96287049,NA
+12131,Walton,Florida,87.98855483,NA
+12133,Washington,Florida,152.4208067,NA
+13001,Appling,Georgia,54.34528495,NA
+13003,Atkinson,Georgia,160.9800799,NA
+13005,Bacon,Georgia,177.9994618,NA
+13007,Baker,Georgia,149.7517903,NA
+13009,Baldwin,Georgia,104.5609205,NA
+13011,Banks,Georgia,90.52536674,NA
+13013,Barrow,Georgia,108.4845408,NA
+13015,Bartow,Georgia,53.68122621,NA
+13017,Ben Hill,Georgia,94.8895655,NA
+13019,Berrien,Georgia,104.234071,NA
+13021,Bibb,Georgia,178.235625,NA
+13023,Bleckley,Georgia,173.876119,NA
+13025,Brantley,Georgia,136.733107,NA
+13027,Brooks,Georgia,44.58760067,NA
+13029,Bryan,Georgia,178.9628671,NA
+13031,Bulloch,Georgia,103.3225211,NA
+13033,Burke,Georgia,60.59451808,NA
+13035,Butts,Georgia,228.6963422,NA
+13037,Calhoun,Georgia,245.793338,NA
+13039,Camden,Georgia,107.4335818,NA
+13043,Candler,Georgia,159.5254161,NA
+13045,Carroll,Georgia,169.6970917,NA
+13047,Catoosa,Georgia,180.3803844,NA
+13049,Charlton,Georgia,113.6738644,NA
+13051,Chatham,Georgia,95.3743348,NA
+13053,Chattahoochee,Georgia,70.66572991,NA
+13055,Chattooga,Georgia,190.5922377,NA
+13057,Cherokee,Georgia,94.12279389,NA
+13059,Clarke,Georgia,194.0986734,NA
+13061,Clay,Georgia,45.20850221,NA
+13063,Clayton,Georgia,88.1968002,NA
+13065,Clinch,Georgia,115.6015693,NA
+13067,Cobb,Georgia,224.8222329,NA
+13069,Coffee,Georgia,111.2923092,NA
+13071,Colquitt,Georgia,134.264011,NA
+13073,Columbia,Georgia,46.60944591,NA
+13075,Cook,Georgia,123.6112475,NA
+13077,Coweta,Georgia,86.2955132,NA
+13079,Crawford,Georgia,135.0556289,NA
+13081,Crisp,Georgia,154.0621619,NA
+13083,Dade,Georgia,102.8164429,NA
+13085,Dawson,Georgia,80.0567955,NA
+13087,Decatur,Georgia,37.17988682,NA
+13089,De Kalb,Georgia,162.1090348,NA
+13091,Dodge,Georgia,158.4410774,NA
+13093,Dooly,Georgia,143.9203405,NA
+13095,Dougherty,Georgia,77.26259416,NA
+13097,Douglas,Georgia,72.20944846,NA
+13099,Early,Georgia,74.05727746,NA
+13101,Echols,Georgia,76.45540876,NA
+13103,Effingham,Georgia,140.675393,NA
+13105,Elbert,Georgia,153.7501173,NA
+13107,Emanuel,Georgia,92.28520523,NA
+13109,Evans,Georgia,110.6737057,NA
+13111,Fannin,Georgia,128.5517817,NA
+13113,Fayette,Georgia,192.3320844,NA
+13115,Floyd,Georgia,158.8145011,NA
+13117,Forsyth,Georgia,142.6636234,NA
+13119,Franklin,Georgia,159.9559922,NA
+13121,Fulton,Georgia,189.8111323,NA
+13123,Gilmer,Georgia,112.5232,NA
+13125,Glascock,Georgia,154.559067,NA
+13127,Glynn,Georgia,71.04201927,NA
+13129,Gordon,Georgia,141.5312017,NA
+13131,Grady,Georgia,139.9825415,NA
+13133,Greene,Georgia,120.0830704,NA
+13135,Gwinnett,Georgia,180.3381382,NA
+13137,Habersham,Georgia,116.9170914,NA
+13139,Hall,Georgia,142.442267,NA
+13141,Hancock,Georgia,202.0175319,NA
+13143,Haralson,Georgia,201.1172455,NA
+13145,Harris,Georgia,174.5576604,NA
+13147,Hart,Georgia,211.2748797,NA
+13149,Heard,Georgia,147.2751995,NA
+13151,Henry,Georgia,77.00676159,NA
+13153,Houston,Georgia,102.0201448,NA
+13155,Irwin,Georgia,160.72467,NA
+13157,Jackson,Georgia,41.35125114,NA
+13159,Jasper,Georgia,175.9611698,NA
+13161,Jeff Davis,Georgia,218.4109657,NA
+13163,Jefferson,Georgia,72.99758691,NA
+13165,Jenkins,Georgia,40.16775301,NA
+13167,Johnson,Georgia,116.7587901,NA
+13169,Jones,Georgia,161.9451825,NA
+13171,Lamar,Georgia,101.2932667,NA
+13173,Lanier,Georgia,186.5214676,NA
+13175,Laurens,Georgia,186.9987589,NA
+13177,Lee,Georgia,225.2967057,NA
+13179,Liberty,Georgia,138.8586669,NA
+13181,Lincoln,Georgia,146.4172497,NA
+13183,Long,Georgia,178.4684643,NA
+13185,Lowndes,Georgia,87.82954086,NA
+13187,Lumpkin,Georgia,183.4229664,NA
+13189,McDuffie,Georgia,174.7854085,NA
+13191,McIntosh,Georgia,15.15246021,NA
+13193,Macon,Georgia,106.5837295,NA
+13195,Madison,Georgia,228.6878337,NA
+13197,Marion,Georgia,112.2661884,NA
+13199,Meriwether,Georgia,91.8561495,NA
+13201,Miller,Georgia,116.5531506,NA
+13205,Mitchell,Georgia,204.4986442,NA
+13207,Monroe,Georgia,89.15123632,NA
+13209,Montgomery,Georgia,101.5000333,NA
+13211,Morgan,Georgia,100.8914561,NA
+13213,Murray,Georgia,172.7220088,NA
+13215,Muscogee,Georgia,73.99425293,NA
+13217,Newton,Georgia,44.97996922,NA
+13219,Oconee,Georgia,119.5856876,NA
+13221,Oglethorpe,Georgia,109.3933409,NA
+13223,Paulding,Georgia,171.2302365,NA
+13225,Peach,Georgia,101.4751186,NA
+13227,Pickens,Georgia,97.48523486,NA
+13229,Pierce,Georgia,178.8085027,NA
+13231,Pike,Georgia,215.0077569,NA
+13233,Polk,Georgia,42.0437539,NA
+13235,Pulaski,Georgia,57.08656168,NA
+13237,Putnam,Georgia,111.2129456,NA
+13239,Quitman,Georgia,266.5488114,NA
+13241,Rabun,Georgia,152.8857485,NA
+13243,Randolph,Georgia,43.8663153,NA
+13245,Richmond,Georgia,247.7787265,NA
+13247,Rockdale,Georgia,147.16874,NA
+13249,Schley,Georgia,149.6390235,NA
+13251,Screven,Georgia,116.3087514,NA
+13253,Seminole,Georgia,80.0701231,NA
+13255,Spalding,Georgia,60.53505033,NA
+13257,Stephens,Georgia,117.9144985,NA
+13259,Stewart,Georgia,118.664647,NA
+13261,Sumter,Georgia,94.5408645,NA
+13263,Talbot,Georgia,167.820241,NA
+13265,Taliaferro,Georgia,225.3790691,NA
+13267,Tattnall,Georgia,207.3791147,NA
+13269,Taylor,Georgia,142.8686316,NA
+13271,Telfair,Georgia,148.321987,NA
+13273,Terrell,Georgia,62.88077629,NA
+13275,Thomas,Georgia,132.3028621,NA
+13277,Tift,Georgia,132.8266303,NA
+13279,Toombs,Georgia,162.5651718,NA
+13281,Towns,Georgia,202.5026397,NA
+13283,Treutlen,Georgia,168.6569647,NA
+13285,Troup,Georgia,216.9710547,NA
+13287,Turner,Georgia,63.34215084,NA
+13289,Twiggs,Georgia,114.1088496,NA
+13291,Union,Georgia,129.473801,NA
+13293,Upson,Georgia,175.311118,NA
+13295,Walker,Georgia,88.73550066,NA
+13297,Walton,Georgia,84.28613412,NA
+13299,Ware,Georgia,165.9663207,NA
+13301,Warren,Georgia,71.00296028,NA
+13303,Washington,Georgia,145.4152462,NA
+13305,Wayne,Georgia,49.7028111,NA
+13307,Webster,Georgia,148.0205774,NA
+13309,Wheeler,Georgia,106.5686046,NA
+13311,White,Georgia,97.24466806,NA
+13313,Whitfield,Georgia,172.3927892,NA
+13315,Wilcox,Georgia,111.4861087,NA
+13317,Wilkes,Georgia,128.7245387,NA
+13319,Wilkinson,Georgia,162.0691719,NA
+13321,Worth,Georgia,170.2401594,NA
+15001,Hawaii,Hawaii,152.2333924,NA
+15003,Honolulu,Hawaii,110.9033419,NA
+15007,Kauai,Hawaii,231.6162033,NA
+15009,Maui,Hawaii,183.578726,NA
+16001,Ada,Idaho,181.0123429,NA
+16003,Adams,Idaho,152.9363155,NA
+16005,Bannock,Idaho,171.4260205,NA
+16007,Bear Lake,Idaho,175.6998984,NA
+16009,Benewah,Idaho,230.9043261,NA
+16011,Bingham,Idaho,180.7085337,NA
+16013,Blaine,Idaho,207.7736292,NA
+16015,Boise,Idaho,107.3495326,NA
+16017,Bonner,Idaho,133.6378727,NA
+16019,Bonneville,Idaho,65.7951001,NA
+16021,Boundary,Idaho,146.3510368,NA
+16023,Butte,Idaho,163.8488843,NA
+16025,Camas,Idaho,132.2385052,NA
+16027,Canyon,Idaho,157.8254271,NA
+16029,Caribou,Idaho,107.0437286,NA
+16031,Cassia,Idaho,122.7048963,NA
+16033,Clark,Idaho,86.4178058,NA
+16035,Clearwater,Idaho,164.5766055,NA
+16037,Custer,Idaho,103.5468825,NA
+16039,Elmore,Idaho,155.0822686,NA
+16041,Franklin,Idaho,187.5832692,NA
+16043,Fremont,Idaho,112.8568604,NA
+16045,Gem,Idaho,141.1900786,NA
+16047,Gooding,Idaho,97.45579387,NA
+16049,Idaho,Idaho,151.7850715,NA
+16051,Jefferson,Idaho,77.00570558,NA
+16053,Jerome,Idaho,75.35921291,NA
+16055,Kootenai,Idaho,223.5258084,NA
+16057,Latah,Idaho,161.4214397,NA
+16059,Lemhi,Idaho,102.7735438,NA
+16061,Lewis,Idaho,149.3383844,NA
+16063,Lincoln,Idaho,265.976198,NA
+16065,Madison,Idaho,113.9341369,NA
+16067,Minidoka,Idaho,98.78678643,NA
+16069,Nez Perce,Idaho,167.3229593,NA
+16071,Oneida,Idaho,66.24417577,NA
+16073,Owyhee,Idaho,182.8126383,NA
+16075,Payette,Idaho,154.9066245,NA
+16077,Power,Idaho,19.14644098,NA
+16079,Shoshone,Idaho,174.8204667,NA
+16081,Teton,Idaho,189.7652854,NA
+16083,Twin Falls,Idaho,70.7898886,NA
+16085,Valley,Idaho,108.6570528,NA
+16087,Washington,Idaho,186.3410092,NA
+17001,Adams,Illinois,114.8174023,NA
+17003,Alexander,Illinois,128.5022809,NA
+17005,Bond,Illinois,170.743471,NA
+17007,Boone,Illinois,97.76092709,NA
+17009,Brown,Illinois,39.09455475,NA
+17011,Bureau,Illinois,94.19760286,NA
+17013,Calhoun,Illinois,215.6250082,NA
+17015,Carroll,Illinois,163.3179516,NA
+17017,Cass,Illinois,177.7655735,NA
+17019,Champaign,Illinois,185.4414173,NA
+17021,Christian,Illinois,225.5190561,NA
+17023,Clark,Illinois,149.7360182,NA
+17025,Clay,Illinois,80.31700336,NA
+17027,Clinton,Illinois,191.0713354,NA
+17029,Coles,Illinois,155.7030354,NA
+17031,Cook,Illinois,68.67305522,NA
+17033,Crawford,Illinois,120.867103,NA
+17035,Cumberland,Illinois,168.4500381,NA
+17037,De Kalb,Illinois,81.54119049,NA
+17039,Dewitt,Illinois,146.8993877,NA
+17041,Douglas,Illinois,154.9593043,NA
+17043,Du Page,Illinois,201.423605,NA
+17045,Edgar,Illinois,207.4811001,NA
+17047,Edwards,Illinois,120.8392376,NA
+17049,Effingham,Illinois,145.9334788,NA
+17051,Fayette,Illinois,207.7678663,NA
+17053,Ford,Illinois,192.2268334,NA
+17055,Franklin,Illinois,152.6808968,NA
+17057,Fulton,Illinois,142.3902799,NA
+17059,Gallatin,Illinois,113.2674852,NA
+17061,Greene,Illinois,103.4662527,NA
+17063,Grundy,Illinois,181.4154667,NA
+17065,Hamilton,Illinois,60.86231156,NA
+17067,Hancock,Illinois,169.9392724,NA
+17069,Hardin,Illinois,153.5934337,NA
+17071,Henderson,Illinois,162.2581075,NA
+17073,Henry,Illinois,97.0735593,NA
+17075,Iroquois,Illinois,107.3498584,NA
+17077,Jackson,Illinois,74.34822156,NA
+17079,Jasper,Illinois,108.5309633,NA
+17081,Jefferson,Illinois,62.65982122,NA
+17083,Jersey,Illinois,162.7181096,NA
+17085,Jo Daviess,Illinois,46.94795556,NA
+17087,Johnson,Illinois,204.2190216,NA
+17089,Kane,Illinois,190.003255,NA
+17091,Kankakee,Illinois,100.3822187,NA
+17093,Kendall,Illinois,177.8146406,NA
+17095,Knox,Illinois,201.7695494,NA
+17097,Lake,Illinois,85.43535296,NA
+17099,La Salle,Illinois,178.210134,NA
+17101,Lawrence,Illinois,92.17947084,NA
+17103,Lee,Illinois,94.36466347,NA
+17105,Livingston,Illinois,147.3186704,NA
+17107,Logan,Illinois,167.7091928,NA
+17109,McDonough,Illinois,48.0287851,NA
+17111,McHenry,Illinois,144.1954264,NA
+17113,Mclean,Illinois,180.0276833,NA
+17115,Macon,Illinois,96.25370179,NA
+17117,Macoupin,Illinois,67.68973227,NA
+17119,Madison,Illinois,136.5981205,NA
+17121,Marion,Illinois,207.1986007,NA
+17123,Marshall,Illinois,123.5057215,NA
+17125,Mason,Illinois,204.8427997,NA
+17127,Massac,Illinois,74.54698175,NA
+17129,Menard,Illinois,171.0159493,NA
+17131,Mercer,Illinois,204.5467028,NA
+17133,Monroe,Illinois,6.916173769,NA
+17135,Montgomery,Illinois,179.5531794,NA
+17137,Morgan,Illinois,101.8129548,NA
+17139,Moultrie,Illinois,48.27239317,NA
+17141,Ogle,Illinois,110.9737945,NA
+17143,Peoria,Illinois,50.62221995,NA
+17145,Perry,Illinois,75.05891446,NA
+17147,Piatt,Illinois,46.20198239,NA
+17149,Pike,Illinois,225.8749757,NA
+17151,Pope,Illinois,92.26349102,NA
+17153,Pulaski,Illinois,134.2682287,NA
+17155,Putnam,Illinois,86.07218253,NA
+17157,Randolph,Illinois,123.3840927,NA
+17159,Richland,Illinois,233.5588722,NA
+17161,Rock Island,Illinois,154.183222,NA
+17163,St Clair,Illinois,196.2520472,NA
+17165,Saline,Illinois,127.9899206,NA
+17167,Sangamon,Illinois,213.4469053,NA
+17169,Schuyler,Illinois,180.8282797,NA
+17171,Scott,Illinois,196.1666443,NA
+17173,Shelby,Illinois,82.9680988,NA
+17175,Stark,Illinois,135.8789996,NA
+17177,Stephenson,Illinois,147.3275185,NA
+17179,Tazewell,Illinois,55.10089344,NA
+17181,Union,Illinois,21.39860286,NA
+17183,Vermilion,Illinois,131.8024482,NA
+17185,Wabash,Illinois,188.7893185,NA
+17187,Warren,Illinois,132.9639098,NA
+17189,Washington,Illinois,145.5309715,NA
+17191,Wayne,Illinois,131.8423806,NA
+17193,White,Illinois,161.4186324,NA
+17195,Whiteside,Illinois,134.8152702,NA
+17197,Will,Illinois,78.12674094,NA
+17199,Williamson,Illinois,81.37593455,NA
+17201,Winnebago,Illinois,138.5979782,NA
+17203,Woodford,Illinois,201.999326,NA
+18001,Adams,Indiana,135.3459486,NA
+18003,Allen,Indiana,135.9327343,NA
+18005,Bartholomew,Indiana,116.9002833,NA
+18007,Benton,Indiana,236.3260717,NA
+18009,Blackford,Indiana,144.9170075,NA
+18011,Boone,Indiana,158.0375478,NA
+18013,Brown,Indiana,83.69116647,NA
+18015,Carroll,Indiana,137.7286361,NA
+18017,Cass,Indiana,104.1427325,NA
+18019,Clark,Indiana,111.5317684,NA
+18021,Clay,Indiana,114.3000261,NA
+18023,Clinton,Indiana,112.0923884,NA
+18025,Crawford,Indiana,119.8129865,NA
+18027,Daviess,Indiana,182.6935478,NA
+18029,Dearborn,Indiana,75.24629218,NA
+18031,Decatur,Indiana,141.7068363,NA
+18033,De Kalb,Indiana,195.7315749,NA
+18035,Delaware,Indiana,103.7578007,NA
+18037,Dubois,Indiana,158.7785729,NA
+18039,Elkhart,Indiana,167.5651753,NA
+18041,Fayette,Indiana,111.1906903,NA
+18043,Floyd,Indiana,167.6417337,NA
+18045,Fountain,Indiana,110.3553688,NA
+18047,Franklin,Indiana,113.7433983,NA
+18049,Fulton,Indiana,131.0696401,NA
+18051,Gibson,Indiana,167.0726297,NA
+18053,Grant,Indiana,142.4067666,NA
+18055,Greene,Indiana,134.519382,NA
+18057,Hamilton,Indiana,109.1809035,NA
+18059,Hancock,Indiana,87.94101194,NA
+18061,Harrison,Indiana,61.60649569,NA
+18063,Hendricks,Indiana,99.8120133,NA
+18065,Henry,Indiana,124.2859004,NA
+18067,Howard,Indiana,170.1056041,NA
+18069,Huntington,Indiana,33.25898817,NA
+18071,Jackson,Indiana,217.6223266,NA
+18073,Jasper,Indiana,149.3118352,NA
+18075,Jay,Indiana,113.4997605,NA
+18077,Jefferson,Indiana,93.59766042,NA
+18079,Jennings,Indiana,34.70468647,NA
+18081,Johnson,Indiana,194.0210485,NA
+18083,Knox,Indiana,128.555104,NA
+18085,Kosciusko,Indiana,120.6585834,NA
+18087,Lagrange,Indiana,146.5698607,NA
+18089,Lake,Indiana,73.51715805,NA
+18091,La Porte,Indiana,68.83773349,NA
+18093,Lawrence,Indiana,95.09155387,NA
+18095,Madison,Indiana,171.0583426,NA
+18097,Marion,Indiana,145.3478991,NA
+18099,Marshall,Indiana,14.43570151,NA
+18101,Martin,Indiana,173.4913278,NA
+18103,Miami,Indiana,147.6418766,NA
+18105,Monroe,Indiana,104.7303247,NA
+18107,Montgomery,Indiana,114.7318537,NA
+18109,Morgan,Indiana,173.7882803,NA
+18111,Newton,Indiana,143.8414923,NA
+18113,Noble,Indiana,95.84959861,NA
+18115,Ohio,Indiana,101.0818832,NA
+18117,Orange,Indiana,109.4883981,NA
+18119,Owen,Indiana,44.26889587,NA
+18121,Parke,Indiana,131.8087069,NA
+18123,Perry,Indiana,69.37199734,NA
+18125,Pike,Indiana,186.1699817,NA
+18127,Porter,Indiana,79.84902898,NA
+18129,Posey,Indiana,84.04076144,NA
+18131,Pulaski,Indiana,163.816118,NA
+18133,Putnam,Indiana,55.31253744,NA
+18135,Randolph,Indiana,157.8122428,NA
+18137,Ripley,Indiana,126.3912448,NA
+18139,Rush,Indiana,140.734174,NA
+18141,St Joseph,Indiana,128.869608,NA
+18143,Scott,Indiana,86.49647622,NA
+18145,Shelby,Indiana,140.4963328,NA
+18147,Spencer,Indiana,170.906497,NA
+18149,Starke,Indiana,114.070439,NA
+18151,Steuben,Indiana,210.8996327,NA
+18153,Sullivan,Indiana,85.85916215,NA
+18155,Switzerland,Indiana,166.4686628,NA
+18157,Tippecanoe,Indiana,72.99587199,NA
+18159,Tipton,Indiana,218.8280726,NA
+18161,Union,Indiana,141.6379482,NA
+18163,Vanderburgh,Indiana,115.7542694,NA
+18165,Vermillion,Indiana,93.56069181,NA
+18167,Vigo,Indiana,185.4189445,NA
+18169,Wabash,Indiana,135.4215462,NA
+18171,Warren,Indiana,146.5548978,NA
+18173,Warrick,Indiana,164.1896818,NA
+18175,Washington,Indiana,141.6734997,NA
+18177,Wayne,Indiana,241.4568271,NA
+18179,Wells,Indiana,93.74561609,NA
+18181,White,Indiana,124.191937,NA
+18183,Whitley,Indiana,34.06017433,NA
+19001,Adair,Iowa,58.81607232,NA
+19003,Adams,Iowa,151.7835592,NA
+19005,Allamakee,Iowa,189.1407455,NA
+19007,Appanoose,Iowa,128.7961488,NA
+19009,Audubon,Iowa,111.8148313,NA
+19011,Benton,Iowa,141.1470182,NA
+19013,Black Hawk,Iowa,114.4554146,NA
+19015,Boone,Iowa,58.58661081,NA
+19017,Bremer,Iowa,177.0974381,NA
+19019,Buchanan,Iowa,90.18626662,NA
+19021,Buena Vista,Iowa,157.8097661,NA
+19023,Butler,Iowa,133.9854899,NA
+19025,Calhoun,Iowa,23.5902438,NA
+19027,Carroll,Iowa,274.2382157,NA
+19029,Cass,Iowa,125.3070021,NA
+19031,Cedar,Iowa,131.8533353,NA
+19033,Cerro Gordo,Iowa,72.34980933,NA
+19035,Cherokee,Iowa,109.2572487,NA
+19037,Chickasaw,Iowa,92.61458881,NA
+19039,Clarke,Iowa,154.2982468,NA
+19041,Clay,Iowa,111.5000804,NA
+19043,Clayton,Iowa,108.600092,NA
+19045,Clinton,Iowa,172.8339115,NA
+19047,Crawford,Iowa,121.852714,NA
+19049,Dallas,Iowa,59.89391362,NA
+19051,Davis,Iowa,99.60511609,NA
+19053,Decatur,Iowa,136.2004769,NA
+19055,Delaware,Iowa,163.9968743,NA
+19057,Des Moines,Iowa,123.7686788,NA
+19059,Dickinson,Iowa,40.383354,NA
+19061,Dubuque,Iowa,200.3533934,NA
+19063,Emmet,Iowa,97.04903718,NA
+19065,Fayette,Iowa,153.6581201,NA
+19067,Floyd,Iowa,109.3758856,NA
+19069,Franklin,Iowa,38.78609148,NA
+19071,Fremont,Iowa,133.2065047,NA
+19073,Greene,Iowa,136.0761167,NA
+19075,Grundy,Iowa,197.1325229,NA
+19077,Guthrie,Iowa,94.081764,NA
+19079,Hamilton,Iowa,41.95659665,NA
+19081,Hancock,Iowa,137.416491,NA
+19083,Hardin,Iowa,213.2445504,NA
+19085,Harrison,Iowa,199.162197,NA
+19087,Henry,Iowa,98.34906422,NA
+19089,Howard,Iowa,136.3544495,NA
+19091,Humboldt,Iowa,184.3867697,NA
+19093,Ida,Iowa,161.5617441,NA
+19095,Iowa,Iowa,84.60579077,NA
+19097,Jackson,Iowa,135.4268413,NA
+19099,Jasper,Iowa,131.0191854,NA
+19101,Jefferson,Iowa,81.59188268,NA
+19103,Johnson,Iowa,164.6293975,NA
+19105,Jones,Iowa,159.9652734,NA
+19107,Keokuk,Iowa,94.4222274,NA
+19109,Kossuth,Iowa,163.6101564,NA
+19111,Lee,Iowa,178.1032579,NA
+19113,Linn,Iowa,139.1076516,NA
+19115,Louisa,Iowa,80.09401613,NA
+19117,Lucas,Iowa,214.8669711,NA
+19119,Lyon,Iowa,10.41984847,NA
+19121,Madison,Iowa,130.6401226,NA
+19123,Mahaska,Iowa,131.2228219,NA
+19125,Marion,Iowa,82.24204407,NA
+19127,Marshall,Iowa,124.1261206,NA
+19129,Mills,Iowa,160.7912053,NA
+19131,Mitchell,Iowa,161.9327085,NA
+19133,Monona,Iowa,164.9982927,NA
+19135,Monroe,Iowa,142.6919944,NA
+19137,Montgomery,Iowa,155.124217,NA
+19139,Muscatine,Iowa,233.0276839,NA
+19141,Obrien,Iowa,113.3579737,NA
+19143,Osceola,Iowa,177.6502999,NA
+19145,Page,Iowa,203.4346344,NA
+19147,Palo Alto,Iowa,99.93154857,NA
+19149,Plymouth,Iowa,104.3699135,NA
+19151,Pocahontas,Iowa,87.80021642,NA
+19153,Polk,Iowa,204.3575829,NA
+19155,Pottawattamie,Iowa,97.96851444,NA
+19157,Poweshiek,Iowa,153.3931551,NA
+19159,Ringgold,Iowa,207.7437008,NA
+19161,Sac,Iowa,145.423641,NA
+19163,Scott,Iowa,220.4392851,NA
+19165,Shelby,Iowa,74.6785926,NA
+19167,Sioux,Iowa,96.80716517,NA
+19169,Story,Iowa,-10.63582544,NA
+19171,Tama,Iowa,199.8051083,NA
+19173,Taylor,Iowa,80.31632783,NA
+19175,Union,Iowa,113.4105658,NA
+19177,Van Buren,Iowa,117.7295397,NA
+19179,Wapello,Iowa,111.8743669,NA
+19181,Warren,Iowa,114.2266153,NA
+19183,Washington,Iowa,221.5976112,NA
+19185,Wayne,Iowa,92.61300661,NA
+19187,Webster,Iowa,109.1224205,NA
+19189,Winnebago,Iowa,114.4044088,NA
+19191,Winneshiek,Iowa,156.1929895,NA
+19193,Woodbury,Iowa,39.65779288,NA
+19195,Worth,Iowa,138.5033582,NA
+19197,Wright,Iowa,81.71988131,NA
+20001,Allen,Kansas,173.8480383,NA
+20003,Anderson,Kansas,176.5287788,NA
+20005,Atchison,Kansas,112.6531527,NA
+20007,Barber,Kansas,69.06778112,NA
+20009,Barton,Kansas,113.9550197,NA
+20011,Bourbon,Kansas,161.4322708,NA
+20013,Brown,Kansas,154.1362053,NA
+20015,Butler,Kansas,76.17815416,NA
+20017,Chase,Kansas,66.90193702,NA
+20019,Chautauqua,Kansas,76.17560403,NA
+20021,Cherokee,Kansas,79.1938312,NA
+20023,Cheyenne,Kansas,115.1545409,NA
+20025,Clark,Kansas,-15.84855013,NA
+20027,Clay,Kansas,135.7849669,NA
+20029,Cloud,Kansas,66.47742653,NA
+20031,Coffey,Kansas,100.6434827,NA
+20033,Comanche,Kansas,143.2783601,NA
+20035,Cowley,Kansas,169.263335,NA
+20037,Crawford,Kansas,92.40724116,NA
+20039,Decatur,Kansas,150.2692983,NA
+20041,Dickinson,Kansas,90.49828616,NA
+20043,Doniphan,Kansas,4.474275505,NA
+20045,Douglas,Kansas,214.9467797,NA
+20047,Edwards,Kansas,178.4695126,NA
+20049,Elk,Kansas,166.3688665,NA
+20051,Ellis,Kansas,86.01050435,NA
+20053,Ellsworth,Kansas,79.18021655,NA
+20055,Finney,Kansas,112.2696303,NA
+20057,Ford,Kansas,33.08714568,NA
+20059,Franklin,Kansas,189.9014698,NA
+20061,Geary,Kansas,74.86091964,NA
+20063,Gove,Kansas,154.0145243,NA
+20065,Graham,Kansas,223.0771501,NA
+20067,Grant,Kansas,75.29836331,NA
+20069,Gray,Kansas,75.50885246,NA
+20071,Greeley,Kansas,77.76808209,NA
+20073,Greenwood,Kansas,148.8388481,NA
+20075,Hamilton,Kansas,125.1747426,NA
+20077,Harper,Kansas,63.30539139,NA
+20079,Harvey,Kansas,183.8883602,NA
+20081,Haskell,Kansas,7.079733401,NA
+20083,Hodgeman,Kansas,133.9361765,NA
+20085,Jackson,Kansas,14.96336919,NA
+20087,Jefferson,Kansas,100.1917535,NA
+20089,Jewell,Kansas,89.51509865,NA
+20091,Johnson,Kansas,103.4358881,NA
+20093,Kearny,Kansas,158.3868754,NA
+20095,Kingman,Kansas,116.2840827,NA
+20097,Kiowa,Kansas,101.8853721,NA
+20099,Labette,Kansas,124.8532667,NA
+20101,Lane,Kansas,77.97862076,NA
+20103,Leavenworth,Kansas,118.9883159,NA
+20105,Lincoln,Kansas,171.8111935,NA
+20107,Linn,Kansas,102.1281517,NA
+20109,Logan,Kansas,126.9886764,NA
+20111,Lyon,Kansas,51.68872621,NA
+20113,McPherson,Kansas,170.4238172,NA
+20115,Marion,Kansas,88.52470179,NA
+20117,Marshall,Kansas,66.86514869,NA
+20119,Meade,Kansas,169.388409,NA
+20121,Miami,Kansas,115.2111814,NA
+20123,Mitchell,Kansas,102.6202574,NA
+20125,Montgomery,Kansas,65.01507361,NA
+20127,Morris,Kansas,147.1774846,NA
+20129,Morton,Kansas,103.7569957,NA
+20131,Nemaha,Kansas,122.7579556,NA
+20133,Neosho,Kansas,119.3880626,NA
+20135,Ness,Kansas,150.8844019,NA
+20137,Norton,Kansas,109.8786989,NA
+20139,Osage,Kansas,104.8958346,NA
+20141,Osborne,Kansas,156.2112078,NA
+20143,Ottawa,Kansas,144.9753263,NA
+20145,Pawnee,Kansas,215.7291442,NA
+20147,Phillips,Kansas,199.0302337,NA
+20149,Pottawatomie,Kansas,120.0969117,NA
+20151,Pratt,Kansas,135.8462842,NA
+20153,Rawlins,Kansas,53.8650392,NA
+20155,Reno,Kansas,160.5335649,NA
+20157,Republic,Kansas,26.09012435,NA
+20159,Rice,Kansas,139.3223647,NA
+20161,Riley,Kansas,112.6796834,NA
+20163,Rooks,Kansas,83.97553286,NA
+20165,Rush,Kansas,95.3269789,NA
+20167,Russell,Kansas,28.50281258,NA
+20169,Saline,Kansas,217.2398542,NA
+20171,Scott,Kansas,118.5922004,NA
+20173,Sedgwick,Kansas,125.8958086,NA
+20175,Seward,Kansas,137.3341223,NA
+20177,Shawnee,Kansas,133.2970821,NA
+20179,Sheridan,Kansas,155.6283066,NA
+20181,Sherman,Kansas,37.83455149,NA
+20183,Smith,Kansas,208.7987751,NA
+20185,Stafford,Kansas,174.6529768,NA
+20187,Stanton,Kansas,178.7122611,NA
+20189,Stevens,Kansas,120.4016971,NA
+20191,Sumner,Kansas,72.89436883,NA
+20193,Thomas,Kansas,110.1549406,NA
+20195,Trego,Kansas,240.5114503,NA
+20197,Wabaunsee,Kansas,126.6936413,NA
+20199,Wallace,Kansas,125.2482776,NA
+20201,Washington,Kansas,102.1057698,NA
+20203,Wichita,Kansas,101.5283949,NA
+20205,Wilson,Kansas,83.81956368,NA
+20207,Woodson,Kansas,191.5281999,NA
+20209,Wyandotte,Kansas,117.8400582,NA
+21001,Adair,Kentucky,224.1523793,NA
+21003,Allen,Kentucky,139.0884904,NA
+21005,Anderson,Kentucky,192.8716161,NA
+21007,Ballard,Kentucky,150.4943809,NA
+21009,Barren,Kentucky,103.5834273,NA
+21011,Bath,Kentucky,129.8431526,NA
+21013,Bell,Kentucky,132.1247832,NA
+21015,Boone,Kentucky,119.5943376,NA
+21017,Bourbon,Kentucky,104.3362007,NA
+21019,Boyd,Kentucky,205.168576,NA
+21021,Boyle,Kentucky,192.9690738,NA
+21023,Bracken,Kentucky,140.405982,NA
+21025,Breathitt,Kentucky,167.1521048,NA
+21027,Breckinridge,Kentucky,182.0466508,NA
+21029,Bullitt,Kentucky,169.0355076,NA
+21031,Butler,Kentucky,134.1651201,NA
+21033,Caldwell,Kentucky,198.7219635,NA
+21035,Calloway,Kentucky,150.9725365,NA
+21037,Campbell,Kentucky,140.7147891,NA
+21039,Carlisle,Kentucky,51.18061292,NA
+21041,Carroll,Kentucky,101.7495898,NA
+21043,Carter,Kentucky,133.7827305,NA
+21045,Casey,Kentucky,201.6286464,NA
+21047,Christian,Kentucky,149.0076859,NA
+21049,Clark,Kentucky,-2.11196588,NA
+21051,Clay,Kentucky,126.1557025,NA
+21053,Clinton,Kentucky,153.2563779,NA
+21055,Crittenden,Kentucky,84.57952077,NA
+21057,Cumberland,Kentucky,129.5001766,NA
+21059,Daviess,Kentucky,145.8264657,NA
+21061,Edmonson,Kentucky,163.2608177,NA
+21063,Elliott,Kentucky,88.00848653,NA
+21065,Estill,Kentucky,64.77484824,NA
+21067,Fayette,Kentucky,185.6220517,NA
+21069,Fleming,Kentucky,136.6652707,NA
+21071,Floyd,Kentucky,84.92651316,NA
+21073,Franklin,Kentucky,110.1120113,NA
+21075,Fulton,Kentucky,-21.64108995,NA
+21077,Gallatin,Kentucky,94.61613289,NA
+21079,Garrard,Kentucky,80.28456746,NA
+21081,Grant,Kentucky,127.9829803,NA
+21083,Graves,Kentucky,-21.99843243,NA
+21085,Grayson,Kentucky,180.5992275,NA
+21087,Green,Kentucky,141.489858,NA
+21089,Greenup,Kentucky,124.8599341,NA
+21091,Hancock,Kentucky,125.0466082,NA
+21093,Hardin,Kentucky,140.0241815,NA
+21095,Harlan,Kentucky,122.2712262,NA
+21097,Harrison,Kentucky,233.1899763,NA
+21099,Hart,Kentucky,210.2152896,NA
+21101,Henderson,Kentucky,92.94320602,NA
+21103,Henry,Kentucky,111.160314,NA
+21105,Hickman,Kentucky,148.3552627,NA
+21107,Hopkins,Kentucky,80.57418893,NA
+21109,Jackson,Kentucky,102.6073075,NA
+21111,Jefferson,Kentucky,142.2936309,NA
+21113,Jessamine,Kentucky,81.54128986,NA
+21115,Johnson,Kentucky,99.7572865,NA
+21117,Kenton,Kentucky,167.1242625,NA
+21119,Knott,Kentucky,65.26650305,NA
+21121,Knox,Kentucky,120.2875207,NA
+21123,Larue,Kentucky,75.98033329,NA
+21125,Laurel,Kentucky,147.0784138,NA
+21127,Lawrence,Kentucky,111.643801,NA
+21129,Lee,Kentucky,142.4172105,NA
+21131,Leslie,Kentucky,146.0158786,NA
+21133,Letcher,Kentucky,44.77800895,NA
+21135,Lewis,Kentucky,135.1692441,NA
+21137,Lincoln,Kentucky,38.64798761,NA
+21139,Livingston,Kentucky,153.3949992,NA
+21141,Logan,Kentucky,110.7617963,NA
+21143,Lyon,Kentucky,116.4893214,NA
+21145,McCracken,Kentucky,263.0115793,NA
+21147,McCreary,Kentucky,105.2516834,NA
+21149,Mclean,Kentucky,163.4705074,NA
+21151,Madison,Kentucky,156.7468004,NA
+21153,Magoffin,Kentucky,114.8061687,NA
+21155,Marion,Kentucky,124.7131516,NA
+21157,Marshall,Kentucky,0.957246352,NA
+21159,Martin,Kentucky,115.7640094,NA
+21161,Mason,Kentucky,182.4520239,NA
+21163,Meade,Kentucky,150.5039132,NA
+21165,Menifee,Kentucky,154.7586815,NA
+21167,Mercer,Kentucky,150.0175472,NA
+21169,Metcalfe,Kentucky,183.9671289,NA
+21171,Monroe,Kentucky,128.0550001,NA
+21173,Montgomery,Kentucky,183.0313268,NA
+21175,Morgan,Kentucky,179.5301657,NA
+21177,Muhlenberg,Kentucky,140.4491059,NA
+21179,Nelson,Kentucky,137.510566,NA
+21181,Nicholas,Kentucky,124.5521024,NA
+21183,Ohio,Kentucky,152.6016328,NA
+21185,Oldham,Kentucky,11.82399688,NA
+21187,Owen,Kentucky,128.8880189,NA
+21189,Owsley,Kentucky,181.9915208,NA
+21191,Pendleton,Kentucky,152.3347159,NA
+21193,Perry,Kentucky,56.41637965,NA
+21195,Pike,Kentucky,44.23269741,NA
+21197,Powell,Kentucky,77.65592802,NA
+21199,Pulaski,Kentucky,84.15941092,NA
+21201,Robertson,Kentucky,120.9263083,NA
+21203,Rockcastle,Kentucky,227.6566102,NA
+21205,Rowan,Kentucky,61.34191705,NA
+21207,Russell,Kentucky,121.0907699,NA
+21209,Scott,Kentucky,132.8158738,NA
+21211,Shelby,Kentucky,105.2149603,NA
+21213,Simpson,Kentucky,110.6171198,NA
+21215,Spencer,Kentucky,193.698655,NA
+21217,Taylor,Kentucky,184.0070846,NA
+21219,Todd,Kentucky,131.0326908,NA
+21221,Trigg,Kentucky,173.785855,NA
+21223,Trimble,Kentucky,63.73638579,NA
+21225,Union,Kentucky,226.369061,NA
+21227,Warren,Kentucky,175.2182868,NA
+21229,Washington,Kentucky,208.2167863,NA
+21231,Wayne,Kentucky,254.6777629,NA
+21233,Webster,Kentucky,163.824662,NA
+21235,Whitley,Kentucky,165.4060071,NA
+21237,Wolfe,Kentucky,126.3771419,NA
+21239,Woodford,Kentucky,202.0019863,NA
+22001,Acadia,Louisiana,218.8422275,NA
+22003,Allen,Louisiana,136.2933801,NA
+22005,Ascension,Louisiana,55.33280487,NA
+22007,Assumption,Louisiana,163.5551466,NA
+22009,Avoyelles,Louisiana,36.9008236,NA
+22011,Beauregard,Louisiana,142.8357974,NA
+22013,Bienville,Louisiana,162.6596385,NA
+22015,Bossier,Louisiana,231.9420681,NA
+22017,Caddo,Louisiana,180.287512,NA
+22019,Calcasieu,Louisiana,197.5958158,NA
+22021,Caldwell,Louisiana,135.516502,NA
+22023,Cameron,Louisiana,212.8228626,NA
+22025,Catahoula,Louisiana,112.7278888,NA
+22027,Claiborne,Louisiana,58.5735444,NA
+22029,Concordia,Louisiana,90.53389417,NA
+22031,De Soto,Louisiana,122.482836,NA
+22033,East Baton Rouge,Louisiana,79.11748642,NA
+22035,East Carroll,Louisiana,103.0639605,NA
+22037,East Feliciana,Louisiana,69.47134679,NA
+22039,Evangeline,Louisiana,194.5295872,NA
+22041,Franklin,Louisiana,126.0697378,NA
+22043,Grant,Louisiana,172.9422892,NA
+22045,Iberia,Louisiana,108.3568119,NA
+22047,Iberville,Louisiana,179.4948442,NA
+22049,Jackson,Louisiana,114.5288301,NA
+22051,Jefferson,Louisiana,70.92344097,NA
+22053,Jefferson Davis,Louisiana,142.2937198,NA
+22055,Lafayette,Louisiana,145.9900823,NA
+22057,Lafourche,Louisiana,139.8376338,NA
+22059,La Salle,Louisiana,140.7288718,NA
+22061,Lincoln,Louisiana,100.2842803,NA
+22063,Livingston,Louisiana,154.8580791,NA
+22065,Madison,Louisiana,59.5208983,NA
+22067,Morehouse,Louisiana,164.9387173,NA
+22069,Natchitoches,Louisiana,86.13608625,NA
+22071,Orleans,Louisiana,125.9908425,NA
+22073,Ouachita,Louisiana,84.5799421,NA
+22075,Plaquemines,Louisiana,126.7049033,NA
+22077,Pointe Coupee,Louisiana,175.1582054,NA
+22079,Rapides,Louisiana,144.1458286,NA
+22081,Red River,Louisiana,166.7138624,NA
+22083,Richland,Louisiana,171.2323995,NA
+22085,Sabine,Louisiana,131.0979062,NA
+22087,St Bernard,Louisiana,148.9036205,NA
+22089,St Charles,Louisiana,160.5701579,NA
+22091,St Helena,Louisiana,116.5849192,NA
+22093,St James,Louisiana,164.7464246,NA
+22095,St John The Baptist,Louisiana,135.2590908,NA
+22097,St Landry,Louisiana,151.0782832,NA
+22099,St Martin,Louisiana,142.7479235,NA
+22101,St Mary,Louisiana,201.0919475,NA
+22103,St Tammany,Louisiana,73.15678305,NA
+22105,Tangipahoa,Louisiana,50.70617444,NA
+22107,Tensas,Louisiana,68.77983995,NA
+22109,Terrebonne,Louisiana,162.0596365,NA
+22111,Union,Louisiana,54.1527942,NA
+22113,Vermilion,Louisiana,157.1000494,NA
+22115,Vernon,Louisiana,41.42866778,NA
+22117,Washington,Louisiana,124.0960783,NA
+22119,Webster,Louisiana,87.86383053,NA
+22121,West Baton Rouge,Louisiana,111.8202816,NA
+22123,West Carroll,Louisiana,149.9558675,NA
+22125,West Feliciana,Louisiana,45.0701987,NA
+22127,Winn,Louisiana,122.8987642,NA
+23001,Androscoggin,Maine,115.0933478,NA
+23003,Aroostook,Maine,146.0328228,NA
+23005,Cumberland,Maine,210.0901292,NA
+23007,Franklin,Maine,192.7510773,NA
+23009,Hancock,Maine,257.8085656,NA
+23011,Kennebec,Maine,199.9414349,NA
+23013,Knox,Maine,144.9546121,NA
+23015,Lincoln,Maine,95.24246974,NA
+23017,Oxford,Maine,109.5660496,NA
+23019,Penobscot,Maine,153.9654191,NA
+23021,Piscataquis,Maine,118.8809847,NA
+23023,Sagadahoc,Maine,68.720949,NA
+23025,Somerset,Maine,71.10154253,NA
+23027,Waldo,Maine,182.1644037,NA
+23029,Washington,Maine,137.8564423,NA
+23031,York,Maine,30.47599254,NA
+24001,Allegany,Maryland,168.0258678,NA
+24003,Anne Arundel,Maryland,120.6939983,NA
+24005,Baltimore,Maryland,134.9282586,NA
+24009,Calvert,Maryland,10.80128209,NA
+24011,Caroline,Maryland,54.00105475,NA
+24013,Carroll,Maryland,152.646128,NA
+24015,Cecil,Maryland,137.22821,NA
+24017,Charles,Maryland,90.01556207,NA
+24019,Dorchester,Maryland,148.8398888,NA
+24021,Frederick,Maryland,139.1726609,NA
+24023,Garrett,Maryland,53.00839229,NA
+24025,Harford,Maryland,231.1076021,NA
+24027,Howard,Maryland,145.3222483,NA
+24029,Kent,Maryland,37.43646424,NA
+24031,Montgomery,Maryland,162.3491786,NA
+24033,Prince Georges,Maryland,218.3299406,NA
+24035,Queen Annes,Maryland,106.81041,NA
+24037,St Marys,Maryland,177.5790131,NA
+24039,Somerset,Maryland,91.46625037,NA
+24041,Talbot,Maryland,186.0704878,NA
+24043,Washington,Maryland,174.1330594,NA
+24045,Wicomico,Maryland,206.2065789,NA
+24047,Worcester,Maryland,151.4451373,NA
+24510,Baltimore City,Maryland,143.1368009,NA
+25001,Barnstable,Massachusetts,125.9167863,NA
+25003,Berkshire,Massachusetts,102.8056316,NA
+25005,Bristol,Massachusetts,210.1691476,NA
+25007,Dukes,Massachusetts,141.0015747,NA
+25009,Essex,Massachusetts,188.9173198,NA
+25011,Franklin,Massachusetts,191.4307771,NA
+25013,Hampden,Massachusetts,83.83610876,NA
+25015,Hampshire,Massachusetts,77.88821223,NA
+25017,Middlesex,Massachusetts,-8.308006906,NA
+25019,Nantucket,Massachusetts,203.4032687,NA
+25021,Norfolk,Massachusetts,143.2684513,NA
+25023,Plymouth,Massachusetts,204.1013648,NA
+25025,Suffolk,Massachusetts,137.3211006,NA
+25027,Worcester,Massachusetts,197.7808297,NA
+26001,Alcona,Michigan,192.512733,NA
+26003,Alger,Michigan,153.4261776,NA
+26005,Allegan,Michigan,203.3023235,NA
+26007,Alpena,Michigan,103.0003895,NA
+26009,Antrim,Michigan,168.0653073,NA
+26011,Arenac,Michigan,156.3312004,NA
+26013,Baraga,Michigan,154.0963217,NA
+26015,Barry,Michigan,135.7408835,NA
+26017,Bay,Michigan,128.0139981,NA
+26019,Benzie,Michigan,133.0817367,NA
+26021,Berrien,Michigan,184.7888387,NA
+26023,Branch,Michigan,123.5065502,NA
+26025,Calhoun,Michigan,160.7372759,NA
+26027,Cass,Michigan,126.1632097,NA
+26029,Charlevoix,Michigan,81.59203097,NA
+26031,Cheboygan,Michigan,173.5302857,NA
+26033,Chippewa,Michigan,133.4261983,NA
+26035,Clare,Michigan,204.2233376,NA
+26037,Clinton,Michigan,82.72759056,NA
+26039,Crawford,Michigan,107.2088611,NA
+26041,Delta,Michigan,186.8275752,NA
+26043,Dickinson,Michigan,160.709144,NA
+26045,Eaton,Michigan,224.2787767,NA
+26047,Emmet,Michigan,202.7159932,NA
+26049,Genesee,Michigan,122.4298259,NA
+26051,Gladwin,Michigan,59.88622045,NA
+26053,Gogebic,Michigan,129.4744831,NA
+26055,Grand Traverse,Michigan,119.6888866,NA
+26057,Gratiot,Michigan,205.6553235,NA
+26059,Hillsdale,Michigan,139.2255922,NA
+26061,Houghton,Michigan,173.5394243,NA
+26063,Huron,Michigan,165.3594383,NA
+26065,Ingham,Michigan,194.4599821,NA
+26067,Ionia,Michigan,129.6819212,NA
+26069,Iosco,Michigan,141.4463978,NA
+26071,Iron,Michigan,161.6795541,NA
+26073,Isabella,Michigan,95.2077636,NA
+26075,Jackson,Michigan,140.1149036,NA
+26077,Kalamazoo,Michigan,78.65924856,NA
+26079,Kalkaska,Michigan,85.15951183,NA
+26081,Kent,Michigan,122.9736152,NA
+26083,Keweenaw,Michigan,151.1966314,NA
+26085,Lake,Michigan,185.6219595,NA
+26087,Lapeer,Michigan,241.157706,NA
+26089,Leelanau,Michigan,128.1223973,NA
+26091,Lenawee,Michigan,195.3280475,NA
+26093,Livingston,Michigan,260.3102462,NA
+26095,Luce,Michigan,138.1125197,NA
+26097,Mackinac,Michigan,139.406106,NA
+26099,Macomb,Michigan,127.2115879,NA
+26101,Manistee,Michigan,160.1938403,NA
+26103,Marquette,Michigan,135.6673875,NA
+26105,Mason,Michigan,240.1929606,NA
+26107,Mecosta,Michigan,148.728616,NA
+26109,Menominee,Michigan,173.6465491,NA
+26111,Midland,Michigan,66.26996701,NA
+26113,Missaukee,Michigan,61.99957276,NA
+26115,Monroe,Michigan,165.7101822,NA
+26117,Montcalm,Michigan,141.649271,NA
+26119,Montmorency,Michigan,93.45938526,NA
+26121,Muskegon,Michigan,229.8052399,NA
+26123,Newaygo,Michigan,158.7907498,NA
+26125,Oakland,Michigan,124.8565832,NA
+26127,Oceana,Michigan,183.7427857,NA
+26129,Ogemaw,Michigan,142.5190974,NA
+26131,Ontonagon,Michigan,104.286727,NA
+26133,Osceola,Michigan,133.7822629,NA
+26135,Oscoda,Michigan,122.6158132,NA
+26137,Otsego,Michigan,84.77042892,NA
+26139,Ottawa,Michigan,108.4965618,NA
+26141,Presque Isle,Michigan,94.87947638,NA
+26143,Roscommon,Michigan,233.0873638,NA
+26145,Saginaw,Michigan,170.8076174,NA
+26147,St Clair,Michigan,168.9697659,NA
+26149,St Joseph,Michigan,184.3495273,NA
+26151,Sanilac,Michigan,177.01689,NA
+26153,Schoolcraft,Michigan,188.1600699,NA
+26155,Shiawassee,Michigan,105.6405714,NA
+26157,Tuscola,Michigan,233.1624585,NA
+26159,Van Buren,Michigan,50.09546798,NA
+26161,Washtenaw,Michigan,82.78458609,NA
+26163,Wayne,Michigan,149.7103917,NA
+26165,Wexford,Michigan,32.78436301,NA
+27001,Aitkin,Minnesota,201.746267,NA
+27003,Anoka,Minnesota,107.1093384,NA
+27005,Becker,Minnesota,111.1885609,NA
+27007,Beltrami,Minnesota,158.9669312,NA
+27009,Benton,Minnesota,54.99700879,NA
+27011,Big Stone,Minnesota,131.1105575,NA
+27013,Blue Earth,Minnesota,81.47164145,NA
+27015,Brown,Minnesota,146.4338824,NA
+27017,Carlton,Minnesota,113.4397474,NA
+27019,Carver,Minnesota,48.47591626,NA
+27021,Cass,Minnesota,104.9191794,NA
+27023,Chippewa,Minnesota,169.2453529,NA
+27025,Chisago,Minnesota,158.9815033,NA
+27027,Clay,Minnesota,57.22159205,NA
+27029,Clearwater,Minnesota,144.617291,NA
+27031,Cook,Minnesota,141.0401153,NA
+27033,Cottonwood,Minnesota,154.3087786,NA
+27035,Crow Wing,Minnesota,120.790132,NA
+27037,Dakota,Minnesota,67.72012317,NA
+27039,Dodge,Minnesota,124.7991425,NA
+27041,Douglas,Minnesota,181.4109407,NA
+27043,Faribault,Minnesota,267.4278637,NA
+27045,Fillmore,Minnesota,125.6344668,NA
+27047,Freeborn,Minnesota,180.5737699,NA
+27049,Goodhue,Minnesota,222.8767827,NA
+27051,Grant,Minnesota,47.18619355,NA
+27053,Hennepin,Minnesota,129.4617952,NA
+27055,Houston,Minnesota,71.31176397,NA
+27057,Hubbard,Minnesota,258.5162458,NA
+27059,Isanti,Minnesota,133.5735574,NA
+27061,Itasca,Minnesota,81.97209602,NA
+27063,Jackson,Minnesota,186.3204126,NA
+27065,Kanabec,Minnesota,246.2735752,NA
+27067,Kandiyohi,Minnesota,138.4438203,NA
+27069,Kittson,Minnesota,75.87475194,NA
+27071,Koochiching,Minnesota,122.2473629,NA
+27073,Lac Qui Parle,Minnesota,97.44384717,NA
+27075,Lake,Minnesota,100.9908851,NA
+27077,Lake of The Woods,Minnesota,166.4267718,NA
+27079,Le Sueur,Minnesota,157.042629,NA
+27081,Lincoln,Minnesota,151.4321064,NA
+27083,Lyon,Minnesota,46.13108991,NA
+27085,McLeod,Minnesota,126.7215529,NA
+27087,Mahnomen,Minnesota,208.5960486,NA
+27089,Marshall,Minnesota,206.919176,NA
+27091,Martin,Minnesota,158.5508005,NA
+27093,Meeker,Minnesota,62.70671384,NA
+27095,Mille Lacs,Minnesota,183.2280067,NA
+27097,Morrison,Minnesota,82.56631789,NA
+27099,Mower,Minnesota,113.5268915,NA
+27101,Murray,Minnesota,107.1489389,NA
+27103,Nicollet,Minnesota,214.3878503,NA
+27105,Nobles,Minnesota,110.1343048,NA
+27107,Norman,Minnesota,123.5767743,NA
+27109,Olmsted,Minnesota,61.4737235,NA
+27111,Otter Tail,Minnesota,168.0598832,NA
+27113,Pennington,Minnesota,122.2704867,NA
+27115,Pine,Minnesota,82.88273174,NA
+27117,Pipestone,Minnesota,201.9119326,NA
+27119,Polk,Minnesota,165.1809829,NA
+27121,Pope,Minnesota,157.771437,NA
+27123,Ramsey,Minnesota,123.4059503,NA
+27125,Red Lake,Minnesota,94.23300153,NA
+27127,Redwood,Minnesota,150.1170173,NA
+27129,Renville,Minnesota,67.03138453,NA
+27131,Rice,Minnesota,140.4289832,NA
+27133,Rock,Minnesota,105.1691993,NA
+27135,Roseau,Minnesota,82.52137301,NA
+27137,St Louis,Minnesota,88.77423732,NA
+27139,Scott,Minnesota,126.7732956,NA
+27141,Sherburne,Minnesota,144.7457736,NA
+27143,Sibley,Minnesota,95.34444789,NA
+27145,Stearns,Minnesota,215.0325566,NA
+27147,Steele,Minnesota,251.5446623,NA
+27149,Stevens,Minnesota,151.1986685,NA
+27151,Swift,Minnesota,208.9206194,NA
+27153,Todd,Minnesota,127.0221068,NA
+27155,Traverse,Minnesota,124.8489836,NA
+27157,Wabasha,Minnesota,69.07071518,NA
+27159,Wadena,Minnesota,181.8162873,NA
+27161,Waseca,Minnesota,135.2727501,NA
+27163,Washington,Minnesota,131.157139,NA
+27165,Watonwan,Minnesota,187.1830113,NA
+27167,Wilkin,Minnesota,223.5731994,NA
+27169,Winona,Minnesota,128.5753999,NA
+27171,Wright,Minnesota,190.423742,NA
+27173,Yellow Medicine,Minnesota,77.19925032,NA
+28001,Adams,Mississippi,104.1112283,NA
+28003,Alcorn,Mississippi,155.4030859,NA
+28005,Amite,Mississippi,84.63743681,NA
+28007,Attala,Mississippi,105.0782455,NA
+28009,Benton,Mississippi,133.6786983,NA
+28011,Bolivar,Mississippi,165.0405331,NA
+28013,Calhoun,Mississippi,107.6361995,NA
+28015,Carroll,Mississippi,177.5886467,NA
+28017,Chickasaw,Mississippi,185.8410436,NA
+28019,Choctaw,Mississippi,245.4380836,NA
+28021,Claiborne,Mississippi,249.3960513,NA
+28023,Clarke,Mississippi,101.9180593,NA
+28025,Clay,Mississippi,123.5933663,NA
+28027,Coahoma,Mississippi,142.2559942,NA
+28029,Copiah,Mississippi,119.5537758,NA
+28031,Covington,Mississippi,110.3543656,NA
+28033,De Soto,Mississippi,116.871919,NA
+28035,Forrest,Mississippi,130.1467533,NA
+28037,Franklin,Mississippi,-6.926210731,NA
+28039,George,Mississippi,129.7580253,NA
+28041,Greene,Mississippi,101.9070249,NA
+28043,Grenada,Mississippi,-11.84774576,NA
+28045,Hancock,Mississippi,84.15467018,NA
+28047,Harrison,Mississippi,71.06388215,NA
+28049,Hinds,Mississippi,83.23120043,NA
+28051,Holmes,Mississippi,107.8164567,NA
+28053,Humphreys,Mississippi,38.97671417,NA
+28055,Issaquena,Mississippi,114.4125999,NA
+28057,Itawamba,Mississippi,164.3055366,NA
+28059,Jackson,Mississippi,162.1609518,NA
+28061,Jasper,Mississippi,124.7014059,NA
+28063,Jefferson,Mississippi,132.7816097,NA
+28065,Jefferson Davis,Mississippi,39.95209792,NA
+28067,Jones,Mississippi,101.5284424,NA
+28069,Kemper,Mississippi,192.0320203,NA
+28071,Lafayette,Mississippi,107.7428542,NA
+28073,Lamar,Mississippi,58.36324426,NA
+28075,Lauderdale,Mississippi,214.0943034,NA
+28077,Lawrence,Mississippi,119.0842852,NA
+28079,Leake,Mississippi,93.01142301,NA
+28081,Lee,Mississippi,191.9950748,NA
+28083,Leflore,Mississippi,74.10220663,NA
+28085,Lincoln,Mississippi,40.19228977,NA
+28087,Lowndes,Mississippi,134.1851969,NA
+28089,Madison,Mississippi,91.59113831,NA
+28091,Marion,Mississippi,127.1655382,NA
+28093,Marshall,Mississippi,124.0177024,NA
+28095,Monroe,Mississippi,151.0675666,NA
+28097,Montgomery,Mississippi,111.5702626,NA
+28099,Neshoba,Mississippi,171.8620505,NA
+28101,Newton,Mississippi,170.9731415,NA
+28103,Noxubee,Mississippi,187.8508396,NA
+28105,Oktibbeha,Mississippi,185.1974362,NA
+28107,Panola,Mississippi,215.0642433,NA
+28109,Pearl River,Mississippi,174.1059414,NA
+28111,Perry,Mississippi,99.16683254,NA
+28113,Pike,Mississippi,83.00344531,NA
+28115,Pontotoc,Mississippi,51.3215845,NA
+28117,Prentiss,Mississippi,226.7557673,NA
+28119,Quitman,Mississippi,118.5016735,NA
+28121,Rankin,Mississippi,134.3099676,NA
+28123,Scott,Mississippi,127.2785044,NA
+28125,Sharkey,Mississippi,104.4663633,NA
+28127,Simpson,Mississippi,152.3879064,NA
+28129,Smith,Mississippi,118.9376122,NA
+28131,Stone,Mississippi,108.810422,NA
+28133,Sunflower,Mississippi,126.3759733,NA
+28135,Tallahatchie,Mississippi,68.2256104,NA
+28137,Tate,Mississippi,148.1770509,NA
+28139,Tippah,Mississippi,80.16731302,NA
+28141,Tishomingo,Mississippi,106.186819,NA
+28143,Tunica,Mississippi,184.2978361,NA
+28145,Union,Mississippi,118.8255919,NA
+28147,Walthall,Mississippi,188.1132967,NA
+28149,Warren,Mississippi,228.2691976,NA
+28151,Washington,Mississippi,138.0653006,NA
+28153,Wayne,Mississippi,10.50697887,NA
+28155,Webster,Mississippi,6.372803064,NA
+28157,Wilkinson,Mississippi,133.9358288,NA
+28159,Winston,Mississippi,230.6361684,NA
+28161,Yalobusha,Mississippi,158.7486323,NA
+28163,Yazoo,Mississippi,125.6507382,NA
+29001,Adair,Missouri,72.49355195,NA
+29003,Andrew,Missouri,77.5697263,NA
+29005,Atchison,Missouri,132.1344644,NA
+29007,Audrain,Missouri,127.2155859,NA
+29009,Barry,Missouri,6.470151527,NA
+29011,Barton,Missouri,150.1899613,NA
+29013,Bates,Missouri,136.5038183,NA
+29015,Benton,Missouri,88.58061547,NA
+29017,Bollinger,Missouri,103.2260974,NA
+29019,Boone,Missouri,159.0766691,NA
+29021,Buchanan,Missouri,163.4761096,NA
+29023,Butler,Missouri,132.1310002,NA
+29025,Caldwell,Missouri,138.8149339,NA
+29027,Callaway,Missouri,94.26192121,NA
+29029,Camden,Missouri,110.3204595,NA
+29031,Cape Girardeau,Missouri,216.2677996,NA
+29033,Carroll,Missouri,128.0854205,NA
+29035,Carter,Missouri,160.3838758,NA
+29037,Cass,Missouri,171.4476426,NA
+29039,Cedar,Missouri,219.9699554,NA
+29041,Chariton,Missouri,170.6684485,NA
+29043,Christian,Missouri,124.9710484,NA
+29045,Clark,Missouri,198.0136308,NA
+29047,Clay,Missouri,68.31439602,NA
+29049,Clinton,Missouri,119.5985032,NA
+29051,Cole,Missouri,131.1437183,NA
+29053,Cooper,Missouri,199.3584509,NA
+29055,Crawford,Missouri,140.6550306,NA
+29057,Dade,Missouri,168.9328558,NA
+29059,Dallas,Missouri,125.1031291,NA
+29061,Daviess,Missouri,255.7506696,NA
+29063,Dekalb,Missouri,131.3570058,NA
+29065,Dent,Missouri,164.4175976,NA
+29067,Douglas,Missouri,131.9426147,NA
+29069,Dunklin,Missouri,80.1664551,NA
+29071,Franklin,Missouri,131.8420828,NA
+29073,Gasconade,Missouri,139.0504265,NA
+29075,Gentry,Missouri,147.3411842,NA
+29077,Greene,Missouri,21.04776716,NA
+29079,Grundy,Missouri,68.66209486,NA
+29081,Harrison,Missouri,18.55410438,NA
+29083,Henry,Missouri,191.5074472,NA
+29085,Hickory,Missouri,164.7880219,NA
+29087,Holt,Missouri,132.4776447,NA
+29089,Howard,Missouri,123.203283,NA
+29091,Howell,Missouri,36.47963051,NA
+29093,Iron,Missouri,141.7048371,NA
+29095,Jackson,Missouri,146.3746861,NA
+29097,Jasper,Missouri,75.01918615,NA
+29099,Jefferson,Missouri,45.76279207,NA
+29101,Johnson,Missouri,182.6505563,NA
+29103,Knox,Missouri,160.3371678,NA
+29105,Laclede,Missouri,135.1998443,NA
+29107,Lafayette,Missouri,40.48923513,NA
+29109,Lawrence,Missouri,222.7365984,NA
+29111,Lewis,Missouri,109.1562488,NA
+29113,Lincoln,Missouri,254.059964,NA
+29115,Linn,Missouri,126.0102567,NA
+29117,Livingston,Missouri,119.857559,NA
+29119,Mcdonald,Missouri,120.9115533,NA
+29121,Macon,Missouri,140.2726623,NA
+29123,Madison,Missouri,154.8959539,NA
+29125,Maries,Missouri,152.0389491,NA
+29127,Marion,Missouri,237.5064022,NA
+29129,Mercer,Missouri,126.0857336,NA
+29131,Miller,Missouri,143.462806,NA
+29133,Mississippi,Missouri,206.4868477,NA
+29135,Moniteau,Missouri,167.8736414,NA
+29137,Monroe,Missouri,82.7046777,NA
+29139,Montgomery,Missouri,193.7240563,NA
+29141,Morgan,Missouri,149.567974,NA
+29143,New Madrid,Missouri,165.3203473,NA
+29145,Newton,Missouri,101.5912021,NA
+29147,Nodaway,Missouri,57.28014536,NA
+29149,Oregon,Missouri,124.1524316,NA
+29151,Osage,Missouri,161.2633502,NA
+29153,Ozark,Missouri,170.0503621,NA
+29155,Pemiscot,Missouri,156.9909446,NA
+29157,Perry,Missouri,173.8413176,NA
+29159,Pettis,Missouri,137.1228679,NA
+29161,Phelps,Missouri,135.3652765,NA
+29163,Pike,Missouri,126.0296428,NA
+29165,Platte,Missouri,80.87373253,NA
+29167,Polk,Missouri,85.49809118,NA
+29169,Pulaski,Missouri,172.04289,NA
+29171,Putnam,Missouri,70.47638312,NA
+29173,Ralls,Missouri,139.1879545,NA
+29175,Randolph,Missouri,152.0758717,NA
+29177,Ray,Missouri,92.77595141,NA
+29179,Reynolds,Missouri,270.7160022,NA
+29181,Ripley,Missouri,133.8950355,NA
+29183,St Charles,Missouri,156.7645319,NA
+29185,St Clair,Missouri,129.5655912,NA
+29186,Ste Genevieve,Missouri,73.09568757,NA
+29187,St Francois,Missouri,55.33063443,NA
+29189,St Louis,Missouri,129.0893947,NA
+29195,Saline,Missouri,130.2965653,NA
+29197,Schuyler,Missouri,108.1046951,NA
+29199,Scotland,Missouri,114.006537,NA
+29201,Scott,Missouri,160.9510046,NA
+29203,Shannon,Missouri,71.70416887,NA
+29205,Shelby,Missouri,84.26694571,NA
+29207,Stoddard,Missouri,99.39110265,NA
+29209,Stone,Missouri,176.584086,NA
+29211,Sullivan,Missouri,152.0406002,NA
+29213,Taney,Missouri,133.6387136,NA
+29215,Texas,Missouri,149.3856449,NA
+29217,Vernon,Missouri,120.7309543,NA
+29219,Warren,Missouri,90.35367495,NA
+29221,Washington,Missouri,194.5633926,NA
+29223,Wayne,Missouri,176.0748138,NA
+29225,Webster,Missouri,105.9501138,NA
+29227,Worth,Missouri,166.8960933,NA
+29229,Wright,Missouri,112.6623189,NA
+29510,St Louis City,Missouri,2.260647697,NA
+30001,Beaverhead,Montana,98.09703483,NA
+30003,Big Horn,Montana,185.8059629,NA
+30005,Blaine,Montana,167.036363,NA
+30007,Broadwater,Montana,153.170764,NA
+30009,Carbon,Montana,147.7737683,NA
+30011,Carter,Montana,105.7064805,NA
+30013,Cascade,Montana,280.6320086,NA
+30015,Chouteau,Montana,170.1144242,NA
+30017,Custer,Montana,120.7520737,NA
+30019,Daniels,Montana,112.9851502,NA
+30021,Dawson,Montana,168.6355642,NA
+30023,Deer Lodge,Montana,201.4971552,NA
+30025,Fallon,Montana,197.9617263,NA
+30027,Fergus,Montana,150.3690038,NA
+30029,Flathead,Montana,133.5473203,NA
+30031,Gallatin,Montana,184.648966,NA
+30033,Garfield,Montana,143.1641948,NA
+30035,Glacier,Montana,201.0444399,NA
+30037,Golden Valley,Montana,143.2057873,NA
+30039,Granite,Montana,62.24479355,NA
+30041,Hill,Montana,185.0077665,NA
+30043,Jefferson,Montana,134.1526879,NA
+30045,Judith Basin,Montana,48.39517113,NA
+30047,Lake,Montana,4.934261895,NA
+30049,Lewis and Clark,Montana,34.86054552,NA
+30051,Liberty,Montana,38.48209561,NA
+30053,Lincoln,Montana,135.1773483,NA
+30055,McCone,Montana,139.4549572,NA
+30057,Madison,Montana,101.60935,NA
+30059,Meagher,Montana,112.0603242,NA
+30061,Mineral,Montana,89.66869456,NA
+30063,Missoula,Montana,127.4486711,NA
+30065,Musselshell,Montana,99.86429224,NA
+30067,Park,Montana,122.99014,NA
+30069,Petroleum,Montana,132.5995964,NA
+30071,Phillips,Montana,118.6456419,NA
+30073,Pondera,Montana,96.68964557,NA
+30075,Powder River,Montana,132.9747065,NA
+30077,Powell,Montana,31.56716565,NA
+30079,Prairie,Montana,175.0299179,NA
+30081,Ravalli,Montana,80.83803713,NA
+30083,Richland,Montana,68.53219541,NA
+30085,Roosevelt,Montana,69.5616181,NA
+30087,Rosebud,Montana,159.2633234,NA
+30089,Sanders,Montana,149.6071236,NA
+30091,Sheridan,Montana,150.9606908,NA
+30093,Silver Bow,Montana,49.78069775,NA
+30095,Stillwater,Montana,168.2159938,NA
+30097,Sweet Grass,Montana,183.3687607,NA
+30099,Teton,Montana,191.5144423,NA
+30101,Toole,Montana,161.0760517,NA
+30103,Treasure,Montana,60.71926741,NA
+30105,Valley,Montana,143.6368897,NA
+30107,Wheatland,Montana,114.9139362,NA
+30109,Wibaux,Montana,152.8784375,NA
+30111,Yellowstone,Montana,207.3413534,NA
+31001,Adams,Nebraska,40.38048725,NA
+31003,Antelope,Nebraska,70.17454465,NA
+31005,Arthur,Nebraska,144.2780897,NA
+31007,Banner,Nebraska,146.1627859,NA
+31009,Blaine,Nebraska,188.7448443,NA
+31011,Boone,Nebraska,143.6759344,NA
+31013,Box Butte,Nebraska,128.9328254,NA
+31015,Boyd,Nebraska,134.6025014,NA
+31017,Brown,Nebraska,119.5624804,NA
+31019,Buffalo,Nebraska,122.9717012,NA
+31021,Burt,Nebraska,90.00502393,NA
+31023,Butler,Nebraska,85.17251943,NA
+31025,Cass,Nebraska,156.5321965,NA
+31027,Cedar,Nebraska,133.6946036,NA
+31029,Chase,Nebraska,96.0959959,NA
+31031,Cherry,Nebraska,200.5994973,NA
+31033,Cheyenne,Nebraska,124.4085137,NA
+31035,Clay,Nebraska,98.31994653,NA
+31037,Colfax,Nebraska,163.1449351,NA
+31039,Cuming,Nebraska,86.24291942,NA
+31041,Custer,Nebraska,119.9586813,NA
+31043,Dakota,Nebraska,132.9509305,NA
+31045,Dawes,Nebraska,89.22228443,NA
+31047,Dawson,Nebraska,246.1844941,NA
+31049,Deuel,Nebraska,163.7486779,NA
+31051,Dixon,Nebraska,171.9903797,NA
+31053,Dodge,Nebraska,105.103162,NA
+31055,Douglas,Nebraska,168.0894698,NA
+31057,Dundy,Nebraska,181.1324607,NA
+31059,Fillmore,Nebraska,177.1747778,NA
+31061,Franklin,Nebraska,85.1122915,NA
+31063,Frontier,Nebraska,175.3408906,NA
+31065,Furnas,Nebraska,105.5176726,NA
+31067,Gage,Nebraska,59.14323902,NA
+31069,Garden,Nebraska,143.3329279,NA
+31071,Garfield,Nebraska,141.4573264,NA
+31073,Gosper,Nebraska,188.0924967,NA
+31075,Grant,Nebraska,166.4384036,NA
+31077,Greeley,Nebraska,97.04498116,NA
+31079,Hall,Nebraska,160.6716011,NA
+31081,Hamilton,Nebraska,187.9041642,NA
+31083,Harlan,Nebraska,137.4934168,NA
+31085,Hayes,Nebraska,38.13886199,NA
+31087,Hitchcock,Nebraska,109.095405,NA
+31089,Holt,Nebraska,155.0602077,NA
+31091,Hooker,Nebraska,163.7626225,NA
+31093,Howard,Nebraska,64.29485364,NA
+31095,Jefferson,Nebraska,110.6375678,NA
+31097,Johnson,Nebraska,100.3146921,NA
+31099,Kearney,Nebraska,155.1174078,NA
+31101,Keith,Nebraska,116.7522419,NA
+31103,Keya Paha,Nebraska,152.5692695,NA
+31105,Kimball,Nebraska,113.6966491,NA
+31107,Knox,Nebraska,127.9808371,NA
+31109,Lancaster,Nebraska,200.6102363,NA
+31111,Lincoln,Nebraska,84.3346949,NA
+31113,Logan,Nebraska,177.5889804,NA
+31115,Loup,Nebraska,75.34878265,NA
+31117,McPherson,Nebraska,84.88559915,NA
+31119,Madison,Nebraska,198.1511434,NA
+31121,Merrick,Nebraska,87.758601,NA
+31123,Morrill,Nebraska,182.5277865,NA
+31125,Nance,Nebraska,207.3359131,NA
+31127,Nemaha,Nebraska,148.3858284,NA
+31129,Nuckolls,Nebraska,55.57819893,NA
+31131,Otoe,Nebraska,51.79726414,NA
+31133,Pawnee,Nebraska,189.5015552,NA
+31135,Perkins,Nebraska,155.1234918,NA
+31137,Phelps,Nebraska,31.00284322,NA
+31139,Pierce,Nebraska,225.6862351,NA
+31141,Platte,Nebraska,109.7314871,NA
+31143,Polk,Nebraska,139.9901352,NA
+31145,Red Willow,Nebraska,94.77426336,NA
+31147,Richardson,Nebraska,124.6589661,NA
+31149,Rock,Nebraska,91.83043475,NA
+31151,Saline,Nebraska,111.0883325,NA
+31153,Sarpy,Nebraska,87.5213338,NA
+31155,Saunders,Nebraska,165.5099688,NA
+31157,Scotts Bluff,Nebraska,136.66253,NA
+31159,Seward,Nebraska,148.1048156,NA
+31161,Sheridan,Nebraska,42.54797538,NA
+31163,Sherman,Nebraska,130.195138,NA
+31165,Sioux,Nebraska,85.13215463,NA
+31167,Stanton,Nebraska,117.313637,NA
+31169,Thayer,Nebraska,127.6605646,NA
+31171,Thomas,Nebraska,163.2590599,NA
+31173,Thurston,Nebraska,161.9255405,NA
+31175,Valley,Nebraska,182.8195765,NA
+31177,Washington,Nebraska,118.8417297,NA
+31179,Wayne,Nebraska,183.0380708,NA
+31181,Webster,Nebraska,167.9461205,NA
+31183,Wheeler,Nebraska,181.4942115,NA
+31185,York,Nebraska,208.079614,NA
+32001,Churchill,Nevada,146.4432563,NA
+32003,Clark,Nevada,237.6673609,NA
+32005,Douglas,Nevada,189.819667,NA
+32007,Elko,Nevada,70.85924448,NA
+32009,Esmeralda,Nevada,161.6887193,NA
+32011,Eureka,Nevada,123.7316223,NA
+32013,Humboldt,Nevada,85.46543517,NA
+32015,Lander,Nevada,117.2027219,NA
+32017,Lincoln,Nevada,180.7052027,NA
+32019,Lyon,Nevada,-6.13760711,NA
+32021,Mineral,Nevada,125.5047499,NA
+32023,Nye,Nevada,121.5444931,NA
+32027,Pershing,Nevada,87.48555531,NA
+32029,Storey,Nevada,96.78869571,NA
+32031,Washoe,Nevada,50.82686969,NA
+32033,White Pine,Nevada,129.1168053,NA
+32510,Carson City,Nevada,168.6322721,NA
+33001,Belknap,New Hampshire,74.94548274,NA
+33003,Carroll,New Hampshire,59.78244258,NA
+33005,Cheshire,New Hampshire,30.03785406,NA
+33007,Coos,New Hampshire,42.4562332,NA
+33009,Grafton,New Hampshire,207.4209527,NA
+33011,Hillsborough,New Hampshire,137.0157679,NA
+33013,Merrimack,New Hampshire,133.4352145,NA
+33015,Rockingham,New Hampshire,53.22477714,NA
+33017,Strafford,New Hampshire,143.6810421,NA
+33019,Sullivan,New Hampshire,207.7936764,NA
+34001,Atlantic,New Jersey,185.0698239,NA
+34003,Bergen,New Jersey,157.5523767,NA
+34005,Burlington,New Jersey,145.7169529,NA
+34007,Camden,New Jersey,169.3460175,NA
+34009,Cape May,New Jersey,147.9309827,NA
+34011,Cumberland,New Jersey,200.5864535,NA
+34013,Essex,New Jersey,104.1896327,NA
+34015,Gloucester,New Jersey,206.5154688,NA
+34017,Hudson,New Jersey,136.0534023,NA
+34019,Hunterdon,New Jersey,98.30317347,NA
+34021,Mercer,New Jersey,203.0308288,NA
+34023,Middlesex,New Jersey,88.14219369,NA
+34025,Monmouth,New Jersey,138.5361318,NA
+34027,Morris,New Jersey,153.0709486,NA
+34029,Ocean,New Jersey,134.4327503,NA
+34031,Passaic,New Jersey,178.8879114,NA
+34033,Salem,New Jersey,84.49216077,NA
+34035,Somerset,New Jersey,97.28302676,NA
+34037,Sussex,New Jersey,176.0309907,NA
+34039,Union,New Jersey,166.1721595,NA
+34041,Warren,New Jersey,99.72001015,NA
+35001,Bernalillo,New Mexico,91.31945197,NA
+35003,Catron,New Mexico,177.7673522,NA
+35005,Chaves,New Mexico,212.4752135,NA
+35006,Cibola,New Mexico,129.2782082,NA
+35007,Colfax,New Mexico,149.4562126,NA
+35009,Curry,New Mexico,118.3982411,NA
+35011,De Baca,New Mexico,119.0885202,NA
+35013,Dona Ana,New Mexico,31.83201962,NA
+35015,Eddy,New Mexico,97.76822747,NA
+35017,Grant,New Mexico,81.64472089,NA
+35019,Guadalupe,New Mexico,161.9508768,NA
+35021,Harding,New Mexico,207.6406451,NA
+35023,Hidalgo,New Mexico,188.5809656,NA
+35025,Lea,New Mexico,181.4950918,NA
+35027,Lincoln,New Mexico,65.3806921,NA
+35028,Los Alamos,New Mexico,104.8289366,NA
+35029,Luna,New Mexico,179.4993962,NA
+35031,Mckinley,New Mexico,30.60111006,NA
+35033,Mora,New Mexico,93.10739226,NA
+35035,Otero,New Mexico,139.6389462,NA
+35037,Quay,New Mexico,48.90881735,NA
+35039,Rio Arriba,New Mexico,94.30772879,NA
+35041,Roosevelt,New Mexico,215.233087,NA
+35043,Sandoval,New Mexico,81.06569122,NA
+35045,San Juan,New Mexico,111.524562,NA
+35047,San Miguel,New Mexico,161.2408475,NA
+35049,Santa Fe,New Mexico,139.662735,NA
+35051,Sierra,New Mexico,77.86963185,NA
+35053,Socorro,New Mexico,151.0566546,NA
+35055,Taos,New Mexico,92.30424313,NA
+35057,Torrance,New Mexico,109.9672472,NA
+35059,Union,New Mexico,194.5116188,NA
+35061,Valencia,New Mexico,171.6719834,NA
+36001,Albany,New York,109.3848878,NA
+36003,Allegany,New York,7.064460379,NA
+36005,Bronx,New York,75.89611151,NA
+36007,Broome,New York,160.2795241,NA
+36009,Cattaraugus,New York,89.62704269,NA
+36011,Cayuga,New York,102.6701349,NA
+36013,Chautauqua,New York,193.090205,NA
+36015,Chemung,New York,179.7381128,NA
+36017,Chenango,New York,248.0995646,NA
+36019,Clinton,New York,145.690967,NA
+36021,Columbia,New York,61.01233133,NA
+36023,Cortland,New York,122.4553136,NA
+36025,Delaware,New York,80.82003183,NA
+36027,Dutchess,New York,92.74071101,NA
+36029,Erie,New York,185.9043018,NA
+36031,Essex,New York,152.1864944,NA
+36033,Franklin,New York,176.6471868,NA
+36035,Fulton,New York,74.25741692,NA
+36037,Genesee,New York,142.3009424,NA
+36039,Greene,New York,175.1636415,NA
+36041,Hamilton,New York,206.0435529,NA
+36043,Herkimer,New York,209.0675956,NA
+36045,Jefferson,New York,211.5939426,NA
+36047,Kings,New York,238.5414079,NA
+36049,Lewis,New York,140.2112112,NA
+36051,Livingston,New York,160.8036091,NA
+36053,Madison,New York,149.1014845,NA
+36055,Monroe,New York,175.2065391,NA
+36057,Montgomery,New York,42.09146725,NA
+36059,Nassau,New York,179.2073115,NA
+36061,New York,New York,130.0423791,NA
+36063,Niagara,New York,162.1696063,NA
+36065,Oneida,New York,191.7961612,NA
+36067,Onondaga,New York,152.285996,NA
+36069,Ontario,New York,118.5190115,NA
+36071,Orange,New York,63.49721098,NA
+36073,Orleans,New York,124.0442061,NA
+36075,Oswego,New York,90.52394525,NA
+36077,Otsego,New York,69.29570094,NA
+36079,Putnam,New York,141.2749339,NA
+36081,Queens,New York,92.07461717,NA
+36083,Rensselaer,New York,228.7490138,NA
+36085,Richmond,New York,182.668171,NA
+36087,Rockland,New York,117.0650746,NA
+36089,St Lawrence,New York,137.7817421,NA
+36091,Saratoga,New York,156.9178651,NA
+36093,Schenectady,New York,90.10257877,NA
+36095,Schoharie,New York,187.1576881,NA
+36097,Schuyler,New York,97.27526511,NA
+36099,Seneca,New York,139.4055798,NA
+36101,Steuben,New York,122.2291562,NA
+36103,Suffolk,New York,80.72292718,NA
+36105,Sullivan,New York,171.5070513,NA
+36107,Tioga,New York,39.23012538,NA
+36109,Tompkins,New York,137.3763854,NA
+36111,Ulster,New York,150.6227085,NA
+36113,Warren,New York,182.2459809,NA
+36115,Washington,New York,120.9518799,NA
+36117,Wayne,New York,121.8067023,NA
+36119,Westchester,New York,81.90948442,NA
+36121,Wyoming,New York,124.5312812,NA
+36123,Yates,New York,143.4999501,NA
+37001,Alamance,North Carolina,142.8476996,NA
+37003,Alexander,North Carolina,54.4706045,NA
+37005,Alleghany,North Carolina,124.0865232,NA
+37007,Anson,North Carolina,160.1716302,NA
+37009,Ashe,North Carolina,118.743703,NA
+37011,Avery,North Carolina,98.07317814,NA
+37013,Beaufort,North Carolina,151.1385713,NA
+37015,Bertie,North Carolina,122.2884654,NA
+37017,Bladen,North Carolina,56.95370098,NA
+37019,Brunswick,North Carolina,115.9473017,NA
+37021,Buncombe,North Carolina,118.9393477,NA
+37023,Burke,North Carolina,148.7196596,NA
+37025,Cabarrus,North Carolina,130.1149092,NA
+37027,Caldwell,North Carolina,124.4129964,NA
+37029,Camden,North Carolina,134.9337421,NA
+37031,Carteret,North Carolina,142.01028,NA
+37033,Caswell,North Carolina,135.6867804,NA
+37035,Catawba,North Carolina,165.0308003,NA
+37037,Chatham,North Carolina,126.8597168,NA
+37039,Cherokee,North Carolina,98.29734389,NA
+37041,Chowan,North Carolina,39.2418276,NA
+37043,Clay,North Carolina,96.41234589,NA
+37045,Cleveland,North Carolina,167.9897763,NA
+37047,Columbus,North Carolina,58.40501581,NA
+37049,Craven,North Carolina,110.4920622,NA
+37051,Cumberland,North Carolina,202.2543493,NA
+37053,Currituck,North Carolina,171.7418369,NA
+37055,Dare,North Carolina,194.062774,NA
+37057,Davidson,North Carolina,19.51096915,NA
+37059,Davie,North Carolina,141.5167931,NA
+37061,Duplin,North Carolina,98.63773369,NA
+37063,Durham,North Carolina,68.83795387,NA
+37065,Edgecombe,North Carolina,96.44089347,NA
+37067,Forsyth,North Carolina,126.9236301,NA
+37069,Franklin,North Carolina,127.0155893,NA
+37071,Gaston,North Carolina,179.9992408,NA
+37073,Gates,North Carolina,128.627184,NA
+37075,Graham,North Carolina,142.0931907,NA
+37077,Granville,North Carolina,201.3177723,NA
+37079,Greene,North Carolina,180.4222712,NA
+37081,Guilford,North Carolina,128.3862186,NA
+37083,Halifax,North Carolina,144.0584521,NA
+37085,Harnett,North Carolina,124.8903776,NA
+37087,Haywood,North Carolina,81.90002581,NA
+37089,Henderson,North Carolina,102.4945594,NA
+37091,Hertford,North Carolina,61.08614023,NA
+37093,Hoke,North Carolina,143.1611401,NA
+37095,Hyde,North Carolina,42.29903353,NA
+37097,Iredell,North Carolina,130.5650173,NA
+37099,Jackson,North Carolina,130.7656632,NA
+37101,Johnston,North Carolina,193.8193981,NA
+37103,Jones,North Carolina,79.45573808,NA
+37105,Lee,North Carolina,178.4583108,NA
+37107,Lenoir,North Carolina,163.7111148,NA
+37109,Lincoln,North Carolina,177.7362915,NA
+37111,McDowell,North Carolina,87.9298899,NA
+37113,Macon,North Carolina,124.778971,NA
+37115,Madison,North Carolina,148.233117,NA
+37117,Martin,North Carolina,135.8205304,NA
+37119,Mecklenburg,North Carolina,128.1534587,NA
+37121,Mitchell,North Carolina,181.3137286,NA
+37123,Montgomery,North Carolina,84.48010539,NA
+37125,Moore,North Carolina,176.4851143,NA
+37127,Nash,North Carolina,178.9460457,NA
+37129,New Hanover,North Carolina,159.6778489,NA
+37131,Northampton,North Carolina,111.7908648,NA
+37133,Onslow,North Carolina,192.5392112,NA
+37135,Orange,North Carolina,236.5735563,NA
+37137,Pamlico,North Carolina,118.5217822,NA
+37139,Pasquotank,North Carolina,179.8886492,NA
+37141,Pender,North Carolina,21.57323626,NA
+37143,Perquimans,North Carolina,80.10955694,NA
+37145,Person,North Carolina,163.8918385,NA
+37147,Pitt,North Carolina,147.1630991,NA
+37149,Polk,North Carolina,173.4415398,NA
+37151,Randolph,North Carolina,51.311537,NA
+37153,Richmond,North Carolina,170.8259864,NA
+37155,Robeson,North Carolina,97.96017123,NA
+37157,Rockingham,North Carolina,162.1048689,NA
+37159,Rowan,North Carolina,139.659706,NA
+37161,Rutherford,North Carolina,133.5970326,NA
+37163,Sampson,North Carolina,115.5618619,NA
+37165,Scotland,North Carolina,132.7597818,NA
+37167,Stanly,North Carolina,69.76187773,NA
+37169,Stokes,North Carolina,95.21943561,NA
+37171,Surry,North Carolina,132.8057849,NA
+37173,Swain,North Carolina,51.05876799,NA
+37175,Transylvania,North Carolina,100.1301347,NA
+37177,Tyrrell,North Carolina,111.6393487,NA
+37179,Union,North Carolina,175.6767189,NA
+37181,Vance,North Carolina,168.8759525,NA
+37183,Wake,North Carolina,140.2056954,NA
+37185,Warren,North Carolina,196.8895,NA
+37187,Washington,North Carolina,89.30120348,NA
+37189,Watauga,North Carolina,200.0418853,NA
+37191,Wayne,North Carolina,118.6727555,NA
+37193,Wilkes,North Carolina,102.5504429,NA
+37195,Wilson,North Carolina,147.1382179,NA
+37197,Yadkin,North Carolina,159.3439291,NA
+37199,Yancey,North Carolina,100.3201086,NA
+38001,Adams,North Dakota,54.71370011,NA
+38003,Barnes,North Dakota,234.6904902,NA
+38005,Benson,North Dakota,217.7796156,NA
+38007,Billings,North Dakota,65.66505974,NA
+38009,Bottineau,North Dakota,152.0095872,NA
+38011,Bowman,North Dakota,131.2909596,NA
+38013,Burke,North Dakota,80.11482679,NA
+38015,Burleigh,North Dakota,87.59352611,NA
+38017,Cass,North Dakota,240.2944012,NA
+38019,Cavalier,North Dakota,120.7202481,NA
+38021,Dickey,North Dakota,137.906036,NA
+38023,Divide,North Dakota,81.78092084,NA
+38025,Dunn,North Dakota,132.3658606,NA
+38027,Eddy,North Dakota,72.39303827,NA
+38029,Emmons,North Dakota,190.9165382,NA
+38031,Foster,North Dakota,69.41697803,NA
+38033,Golden Valley,North Dakota,162.4423195,NA
+38035,Grand Forks,North Dakota,151.9942738,NA
+38037,Grant,North Dakota,180.2351146,NA
+38039,Griggs,North Dakota,149.7246685,NA
+38041,Hettinger,North Dakota,132.9677888,NA
+38043,Kidder,North Dakota,109.6935327,NA
+38045,Lamoure,North Dakota,116.4870571,NA
+38047,Logan,North Dakota,163.4807987,NA
+38049,McHenry,North Dakota,98.61390338,NA
+38051,McIntosh,North Dakota,112.4861395,NA
+38053,Mckenzie,North Dakota,66.69699522,NA
+38055,Mclean,North Dakota,167.3077224,NA
+38057,Mercer,North Dakota,126.7142648,NA
+38059,Morton,North Dakota,129.9501885,NA
+38061,Mountrail,North Dakota,219.6050495,NA
+38063,Nelson,North Dakota,59.49945491,NA
+38065,Oliver,North Dakota,133.3373744,NA
+38067,Pembina,North Dakota,116.5337292,NA
+38069,Pierce,North Dakota,109.1142386,NA
+38071,Ramsey,North Dakota,117.8583425,NA
+38073,Ransom,North Dakota,194.6169194,NA
+38075,Renville,North Dakota,70.89903215,NA
+38077,Richland,North Dakota,87.7321352,NA
+38079,Rolette,North Dakota,191.601326,NA
+38081,Sargent,North Dakota,242.4304124,NA
+38083,Sheridan,North Dakota,100.1651251,NA
+38085,Sioux,North Dakota,146.169307,NA
+38087,Slope,North Dakota,137.2809475,NA
+38089,Stark,North Dakota,158.9931357,NA
+38091,Steele,North Dakota,116.7777802,NA
+38093,Stutsman,North Dakota,242.5359994,NA
+38095,Towner,North Dakota,112.3243146,NA
+38097,Traill,North Dakota,72.89035796,NA
+38099,Walsh,North Dakota,118.3112215,NA
+38101,Ward,North Dakota,155.1462321,NA
+38103,Wells,North Dakota,168.9882439,NA
+38105,Williams,North Dakota,155.8896506,NA
+39001,Adams,Ohio,109.021095,NA
+39003,Allen,Ohio,173.2620448,NA
+39005,Ashland,Ohio,156.1549989,NA
+39007,Ashtabula,Ohio,142.8617862,NA
+39009,Athens,Ohio,125.9629663,NA
+39011,Auglaize,Ohio,93.77576308,NA
+39013,Belmont,Ohio,101.0375032,NA
+39015,Brown,Ohio,142.1525126,NA
+39017,Butler,Ohio,127.7955248,NA
+39019,Carroll,Ohio,133.076904,NA
+39021,Champaign,Ohio,100.2953658,NA
+39023,Clark,Ohio,90.94065552,NA
+39025,Clermont,Ohio,79.56736857,NA
+39027,Clinton,Ohio,148.6005591,NA
+39029,Columbiana,Ohio,195.1579157,NA
+39031,Coshocton,Ohio,86.0219976,NA
+39033,Crawford,Ohio,114.7852235,NA
+39035,Cuyahoga,Ohio,135.0133451,NA
+39037,Darke,Ohio,180.8846457,NA
+39039,Defiance,Ohio,215.0865982,NA
+39041,Delaware,Ohio,84.80420211,NA
+39043,Erie,Ohio,118.1904148,NA
+39045,Fairfield,Ohio,117.724599,NA
+39047,Fayette,Ohio,39.93603472,NA
+39049,Franklin,Ohio,51.72109484,NA
+39051,Fulton,Ohio,62.64068288,NA
+39053,Gallia,Ohio,126.2734381,NA
+39055,Geauga,Ohio,132.3895396,NA
+39057,Greene,Ohio,158.5540214,NA
+39059,Guernsey,Ohio,128.7577973,NA
+39061,Hamilton,Ohio,152.2308922,NA
+39063,Hancock,Ohio,56.53460951,NA
+39065,Hardin,Ohio,132.6243291,NA
+39067,Harrison,Ohio,184.1467024,NA
+39069,Henry,Ohio,205.7362435,NA
+39071,Highland,Ohio,175.6423443,NA
+39073,Hocking,Ohio,137.5255297,NA
+39075,Holmes,Ohio,9.528482922,NA
+39077,Huron,Ohio,120.4393342,NA
+39079,Jackson,Ohio,119.8670952,NA
+39081,Jefferson,Ohio,113.4051174,NA
+39083,Knox,Ohio,16.63140379,NA
+39085,Lake,Ohio,50.96962536,NA
+39087,Lawrence,Ohio,113.1387015,NA
+39089,Licking,Ohio,177.4277732,NA
+39091,Logan,Ohio,180.6883112,NA
+39093,Lorain,Ohio,179.1558983,NA
+39095,Lucas,Ohio,153.6995123,NA
+39097,Madison,Ohio,190.8952438,NA
+39099,Mahoning,Ohio,114.9113773,NA
+39101,Marion,Ohio,147.5847598,NA
+39103,Medina,Ohio,80.85772395,NA
+39105,Meigs,Ohio,197.125727,NA
+39107,Mercer,Ohio,104.6411895,NA
+39109,Miami,Ohio,173.4713977,NA
+39111,Monroe,Ohio,136.4619198,NA
+39113,Montgomery,Ohio,154.2180445,NA
+39115,Morgan,Ohio,134.7127348,NA
+39117,Morrow,Ohio,102.8125854,NA
+39119,Muskingum,Ohio,117.2371661,NA
+39121,Noble,Ohio,163.7003021,NA
+39123,Ottawa,Ohio,47.55671176,NA
+39125,Paulding,Ohio,162.4519397,NA
+39127,Perry,Ohio,159.739888,NA
+39129,Pickaway,Ohio,192.0160273,NA
+39131,Pike,Ohio,59.13667953,NA
+39133,Portage,Ohio,65.4613015,NA
+39135,Preble,Ohio,132.938946,NA
+39137,Putnam,Ohio,224.5368457,NA
+39139,Richland,Ohio,172.0952494,NA
+39141,Ross,Ohio,95.13086922,NA
+39143,Sandusky,Ohio,106.4694035,NA
+39145,Scioto,Ohio,75.05496081,NA
+39147,Seneca,Ohio,160.5936871,NA
+39149,Shelby,Ohio,119.0036952,NA
+39151,Stark,Ohio,175.1727206,NA
+39153,Summit,Ohio,112.9942848,NA
+39155,Trumbull,Ohio,78.60145977,NA
+39157,Tuscarawas,Ohio,87.34728861,NA
+39159,Union,Ohio,203.3186691,NA
+39161,Van Wert,Ohio,84.12380864,NA
+39163,Vinton,Ohio,178.129625,NA
+39165,Warren,Ohio,179.200889,NA
+39167,Washington,Ohio,65.99685545,NA
+39169,Wayne,Ohio,142.8536249,NA
+39171,Williams,Ohio,103.5529808,NA
+39173,Wood,Ohio,166.8113866,NA
+39175,Wyandot,Ohio,259.9461559,NA
+40001,Adair,Oklahoma,110.0474019,NA
+40003,Alfalfa,Oklahoma,72.9206499,NA
+40005,Atoka,Oklahoma,129.2983536,NA
+40007,Beaver,Oklahoma,65.04962113,NA
+40009,Beckham,Oklahoma,202.5532112,NA
+40011,Blaine,Oklahoma,117.8228472,NA
+40013,Bryan,Oklahoma,140.9756122,NA
+40015,Caddo,Oklahoma,102.8905911,NA
+40017,Canadian,Oklahoma,153.3014637,NA
+40019,Carter,Oklahoma,103.2984123,NA
+40021,Cherokee,Oklahoma,263.9394915,NA
+40023,Choctaw,Oklahoma,211.7886744,NA
+40025,Cimarron,Oklahoma,85.9640158,NA
+40027,Cleveland,Oklahoma,127.2224981,NA
+40029,Coal,Oklahoma,103.9563444,NA
+40031,Comanche,Oklahoma,150.3387426,NA
+40033,Cotton,Oklahoma,51.97388668,NA
+40035,Craig,Oklahoma,122.5455052,NA
+40037,Creek,Oklahoma,114.6059161,NA
+40039,Custer,Oklahoma,21.68615103,NA
+40041,Delaware,Oklahoma,108.6944407,NA
+40043,Dewey,Oklahoma,91.12266596,NA
+40045,Ellis,Oklahoma,131.1197141,NA
+40047,Garfield,Oklahoma,114.8848737,NA
+40049,Garvin,Oklahoma,186.615966,NA
+40051,Grady,Oklahoma,13.47182631,NA
+40053,Grant,Oklahoma,70.84755823,NA
+40055,Greer,Oklahoma,54.60621114,NA
+40057,Harmon,Oklahoma,2.675639115,NA
+40059,Harper,Oklahoma,139.6904623,NA
+40061,Haskell,Oklahoma,225.6058184,NA
+40063,Hughes,Oklahoma,129.4410539,NA
+40065,Jackson,Oklahoma,48.08015209,NA
+40067,Jefferson,Oklahoma,95.01384858,NA
+40069,Johnston,Oklahoma,155.1243022,NA
+40071,Kay,Oklahoma,122.1612,NA
+40073,Kingfisher,Oklahoma,135.7392063,NA
+40075,Kiowa,Oklahoma,138.4358257,NA
+40077,Latimer,Oklahoma,163.7363557,NA
+40079,Le Flore,Oklahoma,108.8609596,NA
+40081,Lincoln,Oklahoma,177.6158793,NA
+40083,Logan,Oklahoma,169.000778,NA
+40085,Love,Oklahoma,74.41877007,NA
+40087,Mcclain,Oklahoma,116.0879961,NA
+40089,McCurtain,Oklahoma,74.28089069,NA
+40091,McIntosh,Oklahoma,184.2211524,NA
+40093,Major,Oklahoma,217.0862067,NA
+40095,Marshall,Oklahoma,142.6459728,NA
+40097,Mayes,Oklahoma,16.96560958,NA
+40099,Murray,Oklahoma,176.0182443,NA
+40101,Muskogee,Oklahoma,132.0917577,NA
+40103,Noble,Oklahoma,136.3082895,NA
+40105,Nowata,Oklahoma,124.3490313,NA
+40107,Okfuskee,Oklahoma,179.2736927,NA
+40109,Oklahoma,Oklahoma,210.3888539,NA
+40111,Okmulgee,Oklahoma,179.548402,NA
+40113,Osage,Oklahoma,185.0263553,NA
+40115,Ottawa,Oklahoma,110.7051625,NA
+40117,Pawnee,Oklahoma,144.9353125,NA
+40119,Payne,Oklahoma,61.81099409,NA
+40121,Pittsburg,Oklahoma,110.4652182,NA
+40123,Pontotoc,Oklahoma,159.6968529,NA
+40125,Pottawatomie,Oklahoma,112.7250764,NA
+40127,Pushmataha,Oklahoma,149.0948856,NA
+40129,Roger Mills,Oklahoma,148.8690983,NA
+40131,Rogers,Oklahoma,141.8961205,NA
+40133,Seminole,Oklahoma,30.97391827,NA
+40135,Sequoyah,Oklahoma,188.3682707,NA
+40137,Stephens,Oklahoma,213.6750093,NA
+40139,Texas,Oklahoma,239.9133782,NA
+40141,Tillman,Oklahoma,56.71015095,NA
+40143,Tulsa,Oklahoma,134.660768,NA
+40145,Wagoner,Oklahoma,150.8138104,NA
+40147,Washington,Oklahoma,129.6509485,NA
+40149,Washita,Oklahoma,227.9989153,NA
+40151,Woods,Oklahoma,174.6357793,NA
+40153,Woodward,Oklahoma,84.15611467,NA
+41001,Baker,Oregon,93.31984375,NA
+41003,Benton,Oregon,176.7484383,NA
+41005,Clackamas,Oregon,168.7643505,NA
+41007,Clatsop,Oregon,113.2459536,NA
+41009,Columbia,Oregon,86.8538199,NA
+41011,Coos,Oregon,116.0421868,NA
+41013,Crook,Oregon,242.5487639,NA
+41015,Curry,Oregon,224.0433284,NA
+41017,Deschutes,Oregon,156.3625092,NA
+41019,Douglas,Oregon,190.0201793,NA
+41021,Gilliam,Oregon,73.36401519,NA
+41023,Grant,Oregon,61.18305162,NA
+41025,Harney,Oregon,215.4010092,NA
+41027,Hood River,Oregon,141.3017006,NA
+41029,Jackson,Oregon,127.571302,NA
+41031,Jefferson,Oregon,132.634107,NA
+41033,Josephine,Oregon,138.7571919,NA
+41035,Klamath,Oregon,152.378571,NA
+41037,Lake,Oregon,165.1485501,NA
+41039,Lane,Oregon,211.9898549,NA
+41041,Lincoln,Oregon,107.7822809,NA
+41043,Linn,Oregon,66.90850451,NA
+41045,Malheur,Oregon,149.9514888,NA
+41047,Marion,Oregon,116.6108723,NA
+41049,Morrow,Oregon,33.16492932,NA
+41051,Multnomah,Oregon,189.8994042,NA
+41053,Polk,Oregon,103.7341456,NA
+41055,Sherman,Oregon,115.0467962,NA
+41057,Tillamook,Oregon,89.78250093,NA
+41059,Umatilla,Oregon,183.893509,NA
+41061,Union,Oregon,141.5622175,NA
+41063,Wallowa,Oregon,88.09695736,NA
+41065,Wasco,Oregon,100.678478,NA
+41067,Washington,Oregon,-6.337328997,NA
+41069,Wheeler,Oregon,81.56557295,NA
+41071,Yamhill,Oregon,179.654963,NA
+42001,Adams,Pennsylvania,154.0378399,NA
+42003,Allegheny,Pennsylvania,120.8823735,NA
+42005,Armstrong,Pennsylvania,125.1557645,NA
+42007,Beaver,Pennsylvania,174.931187,NA
+42009,Bedford,Pennsylvania,125.4845541,NA
+42011,Berks,Pennsylvania,135.8919869,NA
+42013,Blair,Pennsylvania,149.446652,NA
+42015,Bradford,Pennsylvania,178.8343085,NA
+42017,Bucks,Pennsylvania,191.388451,NA
+42019,Butler,Pennsylvania,125.4819601,NA
+42021,Cambria,Pennsylvania,125.3532772,NA
+42023,Cameron,Pennsylvania,111.5506857,NA
+42025,Carbon,Pennsylvania,163.6922915,NA
+42027,Centre,Pennsylvania,154.6392114,NA
+42029,Chester,Pennsylvania,135.9755355,NA
+42031,Clarion,Pennsylvania,162.3521698,NA
+42033,Clearfield,Pennsylvania,171.888678,NA
+42035,Clinton,Pennsylvania,78.44490059,NA
+42037,Columbia,Pennsylvania,104.5705857,NA
+42039,Crawford,Pennsylvania,149.1602746,NA
+42041,Cumberland,Pennsylvania,128.267994,NA
+42043,Dauphin,Pennsylvania,126.8759373,NA
+42045,Delaware,Pennsylvania,127.4650032,NA
+42047,Elk,Pennsylvania,81.8791043,NA
+42049,Erie,Pennsylvania,110.2017987,NA
+42051,Fayette,Pennsylvania,166.175252,NA
+42053,Forest,Pennsylvania,127.7084389,NA
+42055,Franklin,Pennsylvania,166.9964154,NA
+42057,Fulton,Pennsylvania,2.576427282,NA
+42059,Greene,Pennsylvania,220.2104715,NA
+42061,Huntingdon,Pennsylvania,228.1800091,NA
+42063,Indiana,Pennsylvania,116.9918487,NA
+42065,Jefferson,Pennsylvania,164.9338181,NA
+42067,Juniata,Pennsylvania,85.01738765,NA
+42069,Lackawanna,Pennsylvania,157.9899535,NA
+42071,Lancaster,Pennsylvania,59.526816,NA
+42073,Lawrence,Pennsylvania,118.6824063,NA
+42075,Lebanon,Pennsylvania,177.7179003,NA
+42077,Lehigh,Pennsylvania,139.4107702,NA
+42079,Luzerne,Pennsylvania,152.6596415,NA
+42081,Lycoming,Pennsylvania,110.2110664,NA
+42083,McKean,Pennsylvania,155.6433524,NA
+42085,Mercer,Pennsylvania,24.18491581,NA
+42087,Mifflin,Pennsylvania,86.30194311,NA
+42089,Monroe,Pennsylvania,136.0187103,NA
+42091,Montgomery,Pennsylvania,137.863552,NA
+42093,Montour,Pennsylvania,95.7963536,NA
+42095,Northampton,Pennsylvania,153.2338185,NA
+42097,Northumberland,Pennsylvania,176.9707669,NA
+42099,Perry,Pennsylvania,123.0843826,NA
+42101,Philadelphia,Pennsylvania,119.980788,NA
+42103,Pike,Pennsylvania,174.8436722,NA
+42105,Potter,Pennsylvania,109.608953,NA
+42107,Schuylkill,Pennsylvania,189.5116423,NA
+42109,Snyder,Pennsylvania,64.82788617,NA
+42111,Somerset,Pennsylvania,127.5890021,NA
+42113,Sullivan,Pennsylvania,78.99629928,NA
+42115,Susquehanna,Pennsylvania,137.0837216,NA
+42117,Tioga,Pennsylvania,222.8681155,NA
+42119,Union,Pennsylvania,252.0748643,NA
+42121,Venango,Pennsylvania,116.680718,NA
+42123,Warren,Pennsylvania,130.3917214,NA
+42125,Washington,Pennsylvania,175.4342714,NA
+42127,Wayne,Pennsylvania,75.07115688,NA
+42129,Westmoreland,Pennsylvania,241.0794454,NA
+42131,Wyoming,Pennsylvania,21.39678295,NA
+42133,York,Pennsylvania,128.1851115,NA
+44001,Bristol,Rhode Island,146.1989888,NA
+44003,Kent,Rhode Island,79.72528901,NA
+44005,Newport,Rhode Island,121.4813236,NA
+44007,Providence,Rhode Island,193.4032681,NA
+44009,Washington,Rhode Island,147.7974635,NA
+45001,Abbeville,South Carolina,47.3988362,NA
+45003,Aiken,South Carolina,164.521952,NA
+45005,Allendale,South Carolina,114.5173188,NA
+45007,Anderson,South Carolina,83.71147561,NA
+45009,Bamberg,South Carolina,207.3795772,NA
+45011,Barnwell,South Carolina,141.8247603,NA
+45013,Beaufort,South Carolina,211.4683563,NA
+45015,Berkeley,South Carolina,186.2763881,NA
+45017,Calhoun,South Carolina,168.3224346,NA
+45019,Charleston,South Carolina,73.05464997,NA
+45021,Cherokee,South Carolina,110.0902879,NA
+45023,Chester,South Carolina,78.20132972,NA
+45025,Chesterfield,South Carolina,193.7859104,NA
+45027,Clarendon,South Carolina,138.4189317,NA
+45029,Colleton,South Carolina,156.273618,NA
+45031,Darlington,South Carolina,135.397567,NA
+45033,Dillon,South Carolina,128.3571846,NA
+45035,Dorchester,South Carolina,64.53272015,NA
+45037,Edgefield,South Carolina,241.4528381,NA
+45039,Fairfield,South Carolina,98.79397789,NA
+45041,Florence,South Carolina,200.387673,NA
+45043,Georgetown,South Carolina,196.5326596,NA
+45045,Greenville,South Carolina,113.8526077,NA
+45047,Greenwood,South Carolina,94.61485229,NA
+45049,Hampton,South Carolina,88.1299203,NA
+45051,Horry,South Carolina,159.7415968,NA
+45053,Jasper,South Carolina,56.19277106,NA
+45055,Kershaw,South Carolina,242.1751668,NA
+45057,Lancaster,South Carolina,241.7650008,NA
+45059,Laurens,South Carolina,89.57032251,NA
+45061,Lee,South Carolina,134.055647,NA
+45063,Lexington,South Carolina,145.1687091,NA
+45065,McCormick,South Carolina,202.1858953,NA
+45067,Marion,South Carolina,215.0241534,NA
+45069,Marlboro,South Carolina,147.5938732,NA
+45071,Newberry,South Carolina,143.2572305,NA
+45073,Oconee,South Carolina,148.0535763,NA
+45075,Orangeburg,South Carolina,81.25205042,NA
+45077,Pickens,South Carolina,52.21866594,NA
+45079,Richland,South Carolina,53.84021588,NA
+45081,Saluda,South Carolina,155.2328631,NA
+45083,Spartanburg,South Carolina,64.15274867,NA
+45085,Sumter,South Carolina,213.9013907,NA
+45087,Union,South Carolina,110.698913,NA
+45089,Williamsburg,South Carolina,114.3392806,NA
+45091,York,South Carolina,178.6047291,NA
+46003,Aurora,South Dakota,216.4907118,NA
+46005,Beadle,South Dakota,154.0436964,NA
+46007,Bennett,South Dakota,72.53056613,NA
+46009,Bon Homme,South Dakota,131.715529,NA
+46011,Brookings,South Dakota,166.276678,NA
+46013,Brown,South Dakota,129.3635672,NA
+46015,Brule,South Dakota,35.74482476,NA
+46017,Buffalo,South Dakota,129.5128174,NA
+46019,Butte,South Dakota,159.9402959,NA
+46021,Campbell,South Dakota,109.2547832,NA
+46023,Charles Mix,South Dakota,275.1487428,NA
+46025,Clark,South Dakota,111.7997268,NA
+46027,Clay,South Dakota,83.43787446,NA
+46029,Codington,South Dakota,102.1308746,NA
+46031,Corson,South Dakota,93.48286614,NA
+46033,Custer,South Dakota,237.7367823,NA
+46035,Davison,South Dakota,122.136682,NA
+46037,Day,South Dakota,124.9479483,NA
+46039,Deuel,South Dakota,155.9119624,NA
+46041,Dewey,South Dakota,128.37456,NA
+46043,Douglas,South Dakota,205.7574788,NA
+46045,Edmunds,South Dakota,184.5093021,NA
+46047,Fall River,South Dakota,127.3586311,NA
+46049,Faulk,South Dakota,58.21504339,NA
+46051,Grant,South Dakota,111.8420687,NA
+46053,Gregory,South Dakota,163.0432468,NA
+46055,Haakon,South Dakota,123.8279737,NA
+46057,Hamlin,South Dakota,47.17613399,NA
+46059,Hand,South Dakota,202.7867062,NA
+46061,Hanson,South Dakota,112.4107985,NA
+46063,Harding,South Dakota,113.2094276,NA
+46065,Hughes,South Dakota,68.93772856,NA
+46067,Hutchinson,South Dakota,70.85441526,NA
+46069,Hyde,South Dakota,122.9764422,NA
+46071,Jackson,South Dakota,163.745,NA
+46073,Jerauld,South Dakota,160.1214949,NA
+46075,Jones,South Dakota,187.8540945,NA
+46077,Kingsbury,South Dakota,90.40707782,NA
+46079,Lake,South Dakota,49.3361537,NA
+46081,Lawrence,South Dakota,175.7812113,NA
+46083,Lincoln,South Dakota,123.3736682,NA
+46085,Lyman,South Dakota,159.1701719,NA
+46087,McCook,South Dakota,112.4514996,NA
+46089,McPherson,South Dakota,77.87629723,NA
+46091,Marshall,South Dakota,69.28383166,NA
+46093,Meade,South Dakota,133.4474512,NA
+46095,Mellette,South Dakota,173.6040889,NA
+46097,Miner,South Dakota,73.44444813,NA
+46099,Minnehaha,South Dakota,132.6525655,NA
+46101,Moody,South Dakota,147.9474766,NA
+46103,Pennington,South Dakota,127.6341132,NA
+46105,Perkins,South Dakota,186.3639407,NA
+46107,Potter,South Dakota,203.4842335,NA
+46109,Roberts,South Dakota,178.141755,NA
+46111,Sanborn,South Dakota,110.1895905,NA
+46113,Shannon,South Dakota,143.1617538,NA
+46115,Spink,South Dakota,155.9889175,NA
+46117,Stanley,South Dakota,43.79201678,NA
+46119,Sully,South Dakota,133.5448432,NA
+46121,Todd,South Dakota,153.7504294,NA
+46123,Tripp,South Dakota,79.80992714,NA
+46125,Turner,South Dakota,204.3142439,NA
+46127,Union,South Dakota,109.0904682,NA
+46129,Walworth,South Dakota,230.7102305,NA
+46135,Yankton,South Dakota,187.4263345,NA
+46137,Ziebach,South Dakota,90.39128348,NA
+47001,Anderson,Tennessee,150.8148201,NA
+47003,Bedford,Tennessee,137.7413828,NA
+47005,Benton,Tennessee,223.3453071,NA
+47007,Bledsoe,Tennessee,168.8205985,NA
+47009,Blount,Tennessee,169.1136185,NA
+47011,Bradley,Tennessee,133.4915806,NA
+47013,Campbell,Tennessee,268.6274358,NA
+47015,Cannon,Tennessee,171.6365817,NA
+47017,Carroll,Tennessee,168.261178,NA
+47019,Carter,Tennessee,184.4779756,NA
+47021,Cheatham,Tennessee,138.6365223,NA
+47023,Chester,Tennessee,95.60841532,NA
+47025,Claiborne,Tennessee,133.5455297,NA
+47027,Clay,Tennessee,185.4757109,NA
+47029,Cocke,Tennessee,169.4057356,NA
+47031,Coffee,Tennessee,122.8587518,NA
+47033,Crockett,Tennessee,104.5426636,NA
+47035,Cumberland,Tennessee,113.3263285,NA
+47037,Davidson,Tennessee,124.6038987,NA
+47039,Decatur,Tennessee,136.8185335,NA
+47041,Dekalb,Tennessee,135.5476851,NA
+47043,Dickson,Tennessee,59.7703977,NA
+47045,Dyer,Tennessee,173.2929056,NA
+47047,Fayette,Tennessee,106.2743569,NA
+47049,Fentress,Tennessee,69.84887065,NA
+47051,Franklin,Tennessee,146.5765821,NA
+47053,Gibson,Tennessee,72.85839525,NA
+47055,Giles,Tennessee,148.7720798,NA
+47057,Grainger,Tennessee,86.40324762,NA
+47059,Greene,Tennessee,191.220676,NA
+47061,Grundy,Tennessee,126.2129999,NA
+47063,Hamblen,Tennessee,148.3790539,NA
+47065,Hamilton,Tennessee,175.590423,NA
+47067,Hancock,Tennessee,142.0041319,NA
+47069,Hardeman,Tennessee,60.70729092,NA
+47071,Hardin,Tennessee,140.3336364,NA
+47073,Hawkins,Tennessee,96.58497325,NA
+47075,Haywood,Tennessee,79.00627281,NA
+47077,Henderson,Tennessee,121.9892311,NA
+47079,Henry,Tennessee,73.3406884,NA
+47081,Hickman,Tennessee,150.8180068,NA
+47083,Houston,Tennessee,105.4048715,NA
+47085,Humphreys,Tennessee,117.0162784,NA
+47087,Jackson,Tennessee,174.2011514,NA
+47089,Jefferson,Tennessee,162.15445,NA
+47091,Johnson,Tennessee,124.3214842,NA
+47093,Knox,Tennessee,246.9414483,NA
+47095,Lake,Tennessee,172.3321995,NA
+47097,Lauderdale,Tennessee,93.66887304,NA
+47099,Lawrence,Tennessee,84.7389907,NA
+47101,Lewis,Tennessee,217.3244851,NA
+47103,Lincoln,Tennessee,160.4526654,NA
+47105,Loudon,Tennessee,56.66755265,NA
+47107,McMinn,Tennessee,125.6656417,NA
+47109,McNairy,Tennessee,174.7445434,NA
+47111,Macon,Tennessee,79.10925087,NA
+47113,Madison,Tennessee,174.1307521,NA
+47115,Marion,Tennessee,17.39600025,NA
+47117,Marshall,Tennessee,195.9788695,NA
+47119,Maury,Tennessee,32.16371842,NA
+47121,Meigs,Tennessee,87.76716884,NA
+47123,Monroe,Tennessee,114.8715745,NA
+47125,Montgomery,Tennessee,189.1579028,NA
+47127,Moore,Tennessee,89.4280844,NA
+47129,Morgan,Tennessee,162.1199571,NA
+47131,Obion,Tennessee,159.0183065,NA
+47133,Overton,Tennessee,188.6570841,NA
+47135,Perry,Tennessee,158.5247528,NA
+47137,Pickett,Tennessee,103.9228676,NA
+47139,Polk,Tennessee,80.37255454,NA
+47141,Putnam,Tennessee,138.5146128,NA
+47143,Rhea,Tennessee,114.683422,NA
+47145,Roane,Tennessee,140.546848,NA
+47147,Robertson,Tennessee,168.2449991,NA
+47149,Rutherford,Tennessee,173.3100382,NA
+47151,Scott,Tennessee,122.3479367,NA
+47153,Sequatchie,Tennessee,112.5322726,NA
+47155,Sevier,Tennessee,193.3432668,NA
+47157,Shelby,Tennessee,130.72378,NA
+47159,Smith,Tennessee,204.5517736,NA
+47161,Stewart,Tennessee,87.41218185,NA
+47163,Sullivan,Tennessee,116.6313911,NA
+47165,Sumner,Tennessee,135.850291,NA
+47167,Tipton,Tennessee,248.7130886,NA
+47169,Trousdale,Tennessee,119.1747071,NA
+47171,Unicoi,Tennessee,124.3370085,NA
+47173,Union,Tennessee,170.0003891,NA
+47175,Van Buren,Tennessee,102.8886902,NA
+47177,Warren,Tennessee,152.2437495,NA
+47179,Washington,Tennessee,130.5347871,NA
+47181,Wayne,Tennessee,94.97980204,NA
+47183,Weakley,Tennessee,135.3611508,NA
+47185,White,Tennessee,55.35658159,NA
+47187,Williamson,Tennessee,36.1377122,NA
+47189,Wilson,Tennessee,127.6691545,NA
+48001,Anderson,Texas,167.6088606,NA
+48003,Andrews,Texas,187.9749869,NA
+48005,Angelina,Texas,199.1359211,NA
+48007,Aransas,Texas,99.57806297,NA
+48009,Archer,Texas,165.0630038,NA
+48011,Armstrong,Texas,156.0800667,NA
+48013,Atascosa,Texas,52.05139057,NA
+48015,Austin,Texas,123.3013943,NA
+48017,Bailey,Texas,115.4501967,NA
+48019,Bandera,Texas,133.2562181,NA
+48021,Bastrop,Texas,152.9326066,NA
+48023,Baylor,Texas,77.15625382,NA
+48025,Bee,Texas,166.4582334,NA
+48027,Bell,Texas,256.8370913,NA
+48029,Bexar,Texas,153.5400923,NA
+48031,Blanco,Texas,121.9224799,NA
+48033,Borden,Texas,90.76574164,NA
+48035,Bosque,Texas,138.7397114,NA
+48037,Bowie,Texas,131.9930387,NA
+48039,Brazoria,Texas,148.7195065,NA
+48041,Brazos,Texas,94.60974694,NA
+48043,Brewster,Texas,146.1201375,NA
+48045,Briscoe,Texas,109.7232172,NA
+48047,Brooks,Texas,146.8026932,NA
+48049,Brown,Texas,78.9657615,NA
+48051,Burleson,Texas,130.5047437,NA
+48053,Burnet,Texas,102.1861652,NA
+48055,Caldwell,Texas,194.2270073,NA
+48057,Calhoun,Texas,163.3186862,NA
+48059,Callahan,Texas,134.3873778,NA
+48061,Cameron,Texas,216.1594212,NA
+48063,Camp,Texas,146.417679,NA
+48065,Carson,Texas,168.6496068,NA
+48067,Cass,Texas,212.7816726,NA
+48069,Castro,Texas,155.5605758,NA
+48071,Chambers,Texas,158.3184952,NA
+48073,Cherokee,Texas,229.2928718,NA
+48075,Childress,Texas,196.1886148,NA
+48077,Clay,Texas,141.1269816,NA
+48079,Cochran,Texas,101.2542397,NA
+48081,Coke,Texas,187.9141144,NA
+48083,Coleman,Texas,154.4739629,NA
+48085,Collin,Texas,38.17854522,NA
+48087,Collingsworth,Texas,191.6697633,NA
+48089,Colorado,Texas,272.9975391,NA
+48091,Comal,Texas,157.0366086,NA
+48093,Comanche,Texas,105.1005075,NA
+48095,Concho,Texas,272.8161371,NA
+48097,Cooke,Texas,199.146761,NA
+48099,Coryell,Texas,212.6350073,NA
+48101,Cottle,Texas,213.8124151,NA
+48103,Crane,Texas,177.2552811,NA
+48105,Crockett,Texas,50.77773736,NA
+48107,Crosby,Texas,167.4596017,NA
+48109,Culberson,Texas,91.6543367,NA
+48111,Dallam,Texas,179.8934696,NA
+48113,Dallas,Texas,201.628556,NA
+48115,Dawson,Texas,126.2915916,NA
+48117,Deaf Smith,Texas,120.1036355,NA
+48119,Delta,Texas,182.1990379,NA
+48121,Denton,Texas,225.3680325,NA
+48123,De Witt,Texas,89.40473576,NA
+48125,Dickens,Texas,132.1219103,NA
+48127,Dimmit,Texas,30.68288151,NA
+48129,Donley,Texas,138.803298,NA
+48131,Duval,Texas,47.72486139,NA
+48133,Eastland,Texas,137.2468267,NA
+48135,Ector,Texas,184.4943963,NA
+48137,Edwards,Texas,136.6740004,NA
+48139,Ellis,Texas,84.01688023,NA
+48141,El Paso,Texas,165.5610725,NA
+48143,Erath,Texas,90.16823532,NA
+48145,Falls,Texas,160.9441753,NA
+48147,Fannin,Texas,99.4817259,NA
+48149,Fayette,Texas,174.0381277,NA
+48151,Fisher,Texas,173.7486188,NA
+48153,Floyd,Texas,126.4186306,NA
+48155,Foard,Texas,170.8977196,NA
+48157,Fort Bend,Texas,93.05027204,NA
+48159,Franklin,Texas,127.9653093,NA
+48161,Freestone,Texas,143.4269097,NA
+48163,Frio,Texas,154.2832874,NA
+48165,Gaines,Texas,64.98281573,NA
+48167,Galveston,Texas,137.7214748,NA
+48169,Garza,Texas,113.9771597,NA
+48171,Gillespie,Texas,103.7038393,NA
+48173,Glasscock,Texas,170.6015574,NA
+48175,Goliad,Texas,194.8688864,NA
+48177,Gonzales,Texas,114.4789142,NA
+48179,Gray,Texas,137.448214,NA
+48181,Grayson,Texas,125.9357268,NA
+48183,Gregg,Texas,146.3858758,NA
+48185,Grimes,Texas,101.5259704,NA
+48187,Guadalupe,Texas,110.701494,NA
+48189,Hale,Texas,174.8197351,NA
+48191,Hall,Texas,160.9369322,NA
+48193,Hamilton,Texas,136.5582052,NA
+48195,Hansford,Texas,130.6122261,NA
+48197,Hardeman,Texas,211.1986659,NA
+48199,Hardin,Texas,198.4368558,NA
+48201,Harris,Texas,166.0905777,NA
+48203,Harrison,Texas,216.6884239,NA
+48205,Hartley,Texas,113.0930959,NA
+48207,Haskell,Texas,157.8567155,NA
+48209,Hays,Texas,195.5876139,NA
+48211,Hemphill,Texas,142.8882584,NA
+48213,Henderson,Texas,195.7747025,NA
+48215,Hidalgo,Texas,193.6986158,NA
+48217,Hill,Texas,47.39029742,NA
+48219,Hockley,Texas,110.5004914,NA
+48221,Hood,Texas,160.7397083,NA
+48223,Hopkins,Texas,122.0290217,NA
+48225,Houston,Texas,194.114672,NA
+48227,Howard,Texas,148.5655558,NA
+48229,Hudspeth,Texas,109.750878,NA
+48231,Hunt,Texas,159.3302314,NA
+48233,Hutchinson,Texas,149.7221516,NA
+48235,Irion,Texas,77.14999162,NA
+48237,Jack,Texas,65.99393622,NA
+48239,Jackson,Texas,70.49267959,NA
+48241,Jasper,Texas,49.34377676,NA
+48243,Jeff Davis,Texas,192.9992752,NA
+48245,Jefferson,Texas,221.4508648,NA
+48247,Jim Hogg,Texas,193.6540056,NA
+48249,Jim Wells,Texas,164.0871728,NA
+48251,Johnson,Texas,125.0999714,NA
+48253,Jones,Texas,2.38728704,NA
+48255,Karnes,Texas,88.77472714,NA
+48257,Kaufman,Texas,135.2943564,NA
+48259,Kendall,Texas,147.4314439,NA
+48261,Kenedy,Texas,96.91198264,NA
+48263,Kent,Texas,145.535539,NA
+48265,Kerr,Texas,34.43806435,NA
+48267,Kimble,Texas,172.946423,NA
+48269,King,Texas,152.3595811,NA
+48271,Kinney,Texas,103.8644645,NA
+48273,Kleberg,Texas,134.0582744,NA
+48275,Knox,Texas,123.2838097,NA
+48277,Lamar,Texas,82.5735041,NA
+48279,Lamb,Texas,89.28037135,NA
+48281,Lampasas,Texas,218.7775222,NA
+48283,La Salle,Texas,105.8943003,NA
+48285,Lavaca,Texas,150.5362205,NA
+48287,Lee,Texas,243.5225484,NA
+48289,Leon,Texas,230.136722,NA
+48291,Liberty,Texas,104.8366259,NA
+48293,Limestone,Texas,96.45228134,NA
+48295,Lipscomb,Texas,205.4065195,NA
+48297,Live Oak,Texas,64.09297381,NA
+48299,Llano,Texas,287.9191414,NA
+48301,Loving,Texas,174.5164969,NA
+48303,Lubbock,Texas,239.1416997,NA
+48305,Lynn,Texas,24.18477192,NA
+48307,McCulloch,Texas,82.63165295,NA
+48309,McLennan,Texas,65.22057161,NA
+48311,McMullen,Texas,94.52888366,NA
+48313,Madison,Texas,180.9285226,NA
+48315,Marion,Texas,192.03953,NA
+48317,Martin,Texas,55.745989,NA
+48319,Mason,Texas,173.2678522,NA
+48321,Matagorda,Texas,140.823551,NA
+48323,Maverick,Texas,101.7015965,NA
+48325,Medina,Texas,165.5959933,NA
+48327,Menard,Texas,91.5442221,NA
+48329,Midland,Texas,176.8989759,NA
+48331,Milam,Texas,168.8130804,NA
+48333,Mills,Texas,195.7396433,NA
+48335,Mitchell,Texas,182.9086641,NA
+48337,Montague,Texas,144.772227,NA
+48339,Montgomery,Texas,161.7545329,NA
+48341,Moore,Texas,114.2680981,NA
+48343,Morris,Texas,141.4579833,NA
+48345,Motley,Texas,144.9684181,NA
+48347,Nacogdoches,Texas,101.7646499,NA
+48349,Navarro,Texas,120.7981693,NA
+48351,Newton,Texas,68.81403196,NA
+48353,Nolan,Texas,103.9944902,NA
+48355,Nueces,Texas,100.5795333,NA
+48357,Ochiltree,Texas,77.84393853,NA
+48359,Oldham,Texas,97.78769374,NA
+48361,Orange,Texas,89.91790847,NA
+48363,Palo Pinto,Texas,166.1440627,NA
+48365,Panola,Texas,127.9162477,NA
+48367,Parker,Texas,80.8841713,NA
+48369,Parmer,Texas,249.3678324,NA
+48371,Pecos,Texas,105.8988317,NA
+48373,Polk,Texas,256.1872116,NA
+48375,Potter,Texas,118.7316976,NA
+48377,Presidio,Texas,161.1311062,NA
+48379,Rains,Texas,99.51719057,NA
+48381,Randall,Texas,173.0970321,NA
+48383,Reagan,Texas,45.88856265,NA
+48385,Real,Texas,172.2605365,NA
+48387,Red River,Texas,166.4480293,NA
+48389,Reeves,Texas,103.5635414,NA
+48391,Refugio,Texas,128.0372829,NA
+48393,Roberts,Texas,96.68504155,NA
+48395,Robertson,Texas,93.55505661,NA
+48397,Rockwall,Texas,113.9836164,NA
+48399,Runnels,Texas,238.8200887,NA
+48401,Rusk,Texas,181.130218,NA
+48403,Sabine,Texas,189.415491,NA
+48405,San Augustine,Texas,88.39874561,NA
+48407,San Jacinto,Texas,211.5724769,NA
+48409,San Patricio,Texas,149.3321177,NA
+48411,San Saba,Texas,141.2929517,NA
+48413,Schleicher,Texas,163.5166031,NA
+48415,Scurry,Texas,85.22367997,NA
+48417,Shackelford,Texas,127.9519541,NA
+48419,Shelby,Texas,92.29667434,NA
+48421,Sherman,Texas,20.51229246,NA
+48423,Smith,Texas,137.1203424,NA
+48425,Somervell,Texas,33.60221147,NA
+48427,Starr,Texas,59.91976203,NA
+48429,Stephens,Texas,233.9178273,NA
+48431,Sterling,Texas,120.7955866,NA
+48433,Stonewall,Texas,144.4652805,NA
+48435,Sutton,Texas,222.125636,NA
+48437,Swisher,Texas,120.7238059,NA
+48439,Tarrant,Texas,171.4159603,NA
+48441,Taylor,Texas,132.3344634,NA
+48443,Terrell,Texas,168.2351525,NA
+48445,Terry,Texas,168.9938013,NA
+48447,Throckmorton,Texas,161.7451845,NA
+48449,Titus,Texas,124.09755,NA
+48451,Tom Green,Texas,91.6254247,NA
+48453,Travis,Texas,9.153633892,NA
+48455,Trinity,Texas,136.9447424,NA
+48457,Tyler,Texas,9.295508609,NA
+48459,Upshur,Texas,115.5429526,NA
+48461,Upton,Texas,106.6687722,NA
+48463,Uvalde,Texas,93.6050658,NA
+48465,Val Verde,Texas,167.361909,NA
+48467,Van Zandt,Texas,152.6362583,NA
+48469,Victoria,Texas,97.61005333,NA
+48471,Walker,Texas,70.48586582,NA
+48473,Waller,Texas,116.0410159,NA
+48475,Ward,Texas,116.6768714,NA
+48477,Washington,Texas,235.0129245,NA
+48479,Webb,Texas,2.28731085,NA
+48481,Wharton,Texas,146.036626,NA
+48483,Wheeler,Texas,38.94525533,NA
+48485,Wichita,Texas,97.33588381,NA
+48487,Wilbarger,Texas,100.1346662,NA
+48489,Willacy,Texas,173.0505002,NA
+48491,Williamson,Texas,-2.087741926,NA
+48493,Wilson,Texas,84.78394413,NA
+48495,Winkler,Texas,209.2320196,NA
+48497,Wise,Texas,122.9043027,NA
+48499,Wood,Texas,103.2481466,NA
+48501,Yoakum,Texas,220.0055543,NA
+48503,Young,Texas,89.54630557,NA
+48505,Zapata,Texas,136.5232583,NA
+48507,Zavala,Texas,189.6342417,NA
+49001,Beaver,Utah,173.675022,NA
+49003,Box Elder,Utah,82.43926049,NA
+49005,Cache,Utah,82.4129114,NA
+49007,Carbon,Utah,94.89827508,NA
+49009,Daggett,Utah,147.326668,NA
+49011,Davis,Utah,192.6503679,NA
+49013,Duchesne,Utah,123.9239064,NA
+49015,Emery,Utah,121.9396224,NA
+49017,Garfield,Utah,151.425416,NA
+49019,Grand,Utah,168.2422282,NA
+49021,Iron,Utah,211.7968056,NA
+49023,Juab,Utah,130.4128354,NA
+49025,Kane,Utah,102.8174621,NA
+49027,Millard,Utah,168.1845317,NA
+49029,Morgan,Utah,145.3944359,NA
+49031,Piute,Utah,110.8330422,NA
+49033,Rich,Utah,146.4467374,NA
+49035,Salt Lake,Utah,197.8367969,NA
+49037,San Juan,Utah,126.2352379,NA
+49039,Sanpete,Utah,161.4102419,NA
+49041,Sevier,Utah,107.7963431,NA
+49043,Summit,Utah,57.41216549,NA
+49045,Tooele,Utah,46.19927594,NA
+49047,Uintah,Utah,117.3915292,NA
+49049,Utah,Utah,148.0699794,NA
+49051,Wasatch,Utah,172.8362522,NA
+49053,Washington,Utah,100.7081962,NA
+49055,Wayne,Utah,194.508357,NA
+49057,Weber,Utah,171.1250529,NA
+50001,Addison,Vermont,50.85542579,NA
+50003,Bennington,Vermont,158.956924,NA
+50005,Caledonia,Vermont,162.1609666,NA
+50007,Chittenden,Vermont,169.4524251,NA
+50009,Essex,Vermont,154.5964183,NA
+50011,Franklin,Vermont,159.6670438,NA
+50013,Grand Isle,Vermont,173.1998168,NA
+50015,Lamoille,Vermont,73.61982608,NA
+50017,Orange,Vermont,99.86774332,NA
+50019,Orleans,Vermont,130.6573519,NA
+50021,Rutland,Vermont,157.8926008,NA
+50023,Washington,Vermont,113.0877866,NA
+50025,Windham,Vermont,125.2161173,NA
+50027,Windsor,Vermont,102.3764602,NA
+51001,Accomack,Virginia,156.4674978,NA
+51003,Albemarle,Virginia,183.9361081,NA
+51005,Alleghany,Virginia,204.876957,NA
+51007,Amelia,Virginia,84.9015611,NA
+51009,Amherst,Virginia,229.7104404,NA
+51011,Appomattox,Virginia,153.7233624,NA
+51013,Arlington,Virginia,19.40757208,NA
+51015,Augusta,Virginia,222.359218,NA
+51017,Bath,Virginia,62.20720599,NA
+51019,Bedford,Virginia,96.82161758,NA
+51021,Bland,Virginia,72.19627019,NA
+51023,Botetourt,Virginia,154.4390767,NA
+51025,Brunswick,Virginia,223.7587989,NA
+51027,Buchanan,Virginia,120.1419142,NA
+51029,Buckingham,Virginia,162.0035244,NA
+51031,Campbell,Virginia,61.46763561,NA
+51033,Caroline,Virginia,135.049323,NA
+51035,Carroll,Virginia,119.7112856,NA
+51036,Charles City,Virginia,153.7848414,NA
+51037,Charlotte,Virginia,92.89727757,NA
+51041,Chesterfield,Virginia,69.50619679,NA
+51043,Clarke,Virginia,272.9857338,NA
+51045,Craig,Virginia,126.5983346,NA
+51047,Culpeper,Virginia,129.3922621,NA
+51049,Cumberland,Virginia,220.9788428,NA
+51051,Dickenson,Virginia,73.44092338,NA
+51053,Dinwiddie,Virginia,150.7428453,NA
+51057,Essex,Virginia,179.2364842,NA
+51059,Fairfax,Virginia,194.0010114,NA
+51061,Fauquier,Virginia,168.2426064,NA
+51063,Floyd,Virginia,80.90860767,NA
+51065,Fluvanna,Virginia,163.5435291,NA
+51067,Franklin,Virginia,37.19765508,NA
+51069,Frederick,Virginia,133.7187475,NA
+51071,Giles,Virginia,104.2548479,NA
+51073,Gloucester,Virginia,143.769653,NA
+51075,Goochland,Virginia,112.711683,NA
+51077,Grayson,Virginia,164.1308389,NA
+51079,Greene,Virginia,90.29486747,NA
+51081,Greensville,Virginia,75.14180946,NA
+51083,Halifax,Virginia,183.4504318,NA
+51085,Hanover,Virginia,169.6617304,NA
+51087,Henrico,Virginia,198.7312829,NA
+51089,Henry,Virginia,125.9114371,NA
+51091,Highland,Virginia,170.311655,NA
+51093,Isle of Wight,Virginia,195.0380789,NA
+51095,James City,Virginia,93.32352138,NA
+51097,King and Queen,Virginia,202.0409222,NA
+51099,King George,Virginia,65.55822491,NA
+51101,King William,Virginia,107.8192562,NA
+51103,Lancaster,Virginia,109.364286,NA
+51105,Lee,Virginia,122.3542012,NA
+51107,Loudoun,Virginia,136.2785691,NA
+51109,Louisa,Virginia,83.99745317,NA
+51111,Lunenburg,Virginia,187.4185689,NA
+51113,Madison,Virginia,125.0404085,NA
+51115,Mathews,Virginia,191.7583101,NA
+51117,Mecklenburg,Virginia,159.303053,NA
+51119,Middlesex,Virginia,107.3629454,NA
+51121,Montgomery,Virginia,168.829233,NA
+51125,Nelson,Virginia,165.769627,NA
+51127,New Kent,Virginia,77.26069635,NA
+51131,Northampton,Virginia,113.6016253,NA
+51133,Northumberland,Virginia,78.07833302,NA
+51135,Nottoway,Virginia,111.8332234,NA
+51137,Orange,Virginia,135.1874725,NA
+51139,Page,Virginia,120.5035691,NA
+51141,Patrick,Virginia,138.379912,NA
+51143,Pittsylvania,Virginia,214.5785335,NA
+51145,Powhatan,Virginia,178.9367646,NA
+51147,Prince Edward,Virginia,60.84935034,NA
+51149,Prince George,Virginia,69.74137633,NA
+51153,Prince William,Virginia,79.12109359,NA
+51155,Pulaski,Virginia,169.784512,NA
+51157,Rappahannock,Virginia,107.7573415,NA
+51159,Richmond,Virginia,46.17441177,NA
+51161,Roanoke,Virginia,122.3502205,NA
+51163,Rockbridge,Virginia,122.8030912,NA
+51165,Rockingham,Virginia,175.9777765,NA
+51167,Russell,Virginia,122.7991196,NA
+51169,Scott,Virginia,85.61927895,NA
+51171,Shenandoah,Virginia,43.13803821,NA
+51173,Smyth,Virginia,160.5937792,NA
+51175,Southampton,Virginia,132.9951625,NA
+51177,Spotsylvania,Virginia,126.2798806,NA
+51179,Stafford,Virginia,138.4846763,NA
+51181,Surry,Virginia,120.1367498,NA
+51183,Sussex,Virginia,163.1129123,NA
+51185,Tazewell,Virginia,214.5753121,NA
+51187,Warren,Virginia,224.1509145,NA
+51191,Washington,Virginia,134.9051641,NA
+51193,Westmoreland,Virginia,89.68026504,NA
+51195,Wise,Virginia,125.5249593,NA
+51197,Wythe,Virginia,263.986466,NA
+51199,York,Virginia,104.1933982,NA
+51510,Alexandria City,Virginia,146.8644483,NA
+51515,Bedford City,Virginia,59.07040616,NA
+51520,Bristol City,Virginia,99.3718885,NA
+51530,Buena Vista City,Virginia,110.6920724,NA
+51540,Charlottesville City,Virginia,195.6055689,NA
+51550,Chesapeake City,Virginia,83.34895436,NA
+51560,Clifton Forge City,Virginia,221.8409276,NA
+51570,Colonial Heights City,Virginia,203.2852739,NA
+51580,Covington City,Virginia,138.8514946,NA
+51590,Danville City,Virginia,224.2723944,NA
+51595,Emporia City,Virginia,111.7857888,NA
+51600,Fairfax City,Virginia,37.30877469,NA
+51610,Falls Church City,Virginia,92.72638348,NA
+51620,Franklin City,Virginia,75.11572644,NA
+51630,Fredericksburg City,Virginia,153.9842994,NA
+51640,Galax City,Virginia,111.5380393,NA
+51650,Hampton City,Virginia,222.9845145,NA
+51660,Harrisonburg City,Virginia,208.1018576,NA
+51670,Hopewell City,Virginia,223.5251283,NA
+51678,Lexington City,Virginia,158.0590426,NA
+51680,Lynchburg City,Virginia,163.3484659,NA
+51683,Manassas City,Virginia,168.732065,NA
+51685,Manassas Park City,Virginia,141.0082888,NA
+51690,Martinsville City,Virginia,69.28309389,NA
+51700,Newport News City,Virginia,163.5509254,NA
+51710,Norfolk City,Virginia,240.4395264,NA
+51720,Norton City,Virginia,92.42595523,NA
+51730,Petersburg City,Virginia,143.7446918,NA
+51735,Poquoson City,Virginia,172.9506323,NA
+51740,Portsmouth City,Virginia,211.5260817,NA
+51750,Radford,Virginia,133.707024,NA
+51760,Richmond City,Virginia,92.66011135,NA
+51770,Roanoke City,Virginia,40.92503468,NA
+51775,Salem City,Virginia,192.4223181,NA
+51780,South Boston City,Virginia,75.81970338,NA
+51790,Staunton City,Virginia,146.8506926,NA
+51800,Suffolk City,Virginia,154.7334145,NA
+51810,Virginia Beach City,Virginia,122.5912935,NA
+51820,Waynesboro City,Virginia,86.40296911,NA
+51830,Williamsburg City,Virginia,148.929251,NA
+51840,Winchester City,Virginia,127.9525895,NA
+53001,Adams,Washington,193.0393836,NA
+53003,Asotin,Washington,128.0605061,NA
+53005,Benton,Washington,116.82187,NA
+53007,Chelan,Washington,151.5830664,NA
+53009,Clallam,Washington,171.1424931,NA
+53011,Clark,Washington,134.9910361,NA
+53013,Columbia,Washington,84.78803827,NA
+53015,Cowlitz,Washington,77.56696491,NA
+53017,Douglas,Washington,73.06911339,NA
+53019,Ferry,Washington,134.894404,NA
+53021,Franklin,Washington,210.7227232,NA
+53023,Garfield,Washington,135.9885358,NA
+53025,Grant,Washington,82.52757434,NA
+53027,Grays Harbor,Washington,131.6809479,NA
+53029,Island,Washington,98.0110791,NA
+53031,Jefferson,Washington,171.6356033,NA
+53033,King,Washington,163.9263346,NA
+53035,Kitsap,Washington,61.61864718,NA
+53037,Kittitas,Washington,60.68270679,NA
+53039,Klickitat,Washington,113.420776,NA
+53041,Lewis,Washington,139.5012977,NA
+53043,Lincoln,Washington,93.35672867,NA
+53045,Mason,Washington,149.1002999,NA
+53047,Okanogan,Washington,81.6956564,NA
+53049,Pacific,Washington,176.0331627,NA
+53051,Pend Oreille,Washington,96.57779598,NA
+53053,Pierce,Washington,159.6064973,NA
+53055,San Juan,Washington,154.4202501,NA
+53057,Skagit,Washington,34.78943531,NA
+53059,Skamania,Washington,176.6540407,NA
+53061,Snohomish,Washington,87.72848548,NA
+53063,Spokane,Washington,168.8833846,NA
+53065,Stevens,Washington,143.7991736,NA
+53067,Thurston,Washington,202.0307469,NA
+53069,Wahkiakum,Washington,174.7292327,NA
+53071,Walla Walla,Washington,146.0373145,NA
+53073,Whatcom,Washington,75.84055094,NA
+53075,Whitman,Washington,206.8000764,NA
+53077,Yakima,Washington,171.2737706,NA
+54001,Barbour,West Virginia,106.5107629,NA
+54003,Berkeley,West Virginia,143.6252003,NA
+54005,Boone,West Virginia,175.1762001,NA
+54007,Braxton,West Virginia,121.0838072,NA
+54009,Brooke,West Virginia,24.39968854,NA
+54011,Cabell,West Virginia,135.6806596,NA
+54013,Calhoun,West Virginia,130.7812759,NA
+54015,Clay,West Virginia,150.2020263,NA
+54017,Doddridge,West Virginia,60.81372471,NA
+54019,Fayette,West Virginia,139.5176151,NA
+54021,Gilmer,West Virginia,190.9725432,NA
+54023,Grant,West Virginia,57.67660145,NA
+54025,Greenbrier,West Virginia,115.2642755,NA
+54027,Hampshire,West Virginia,37.47646222,NA
+54029,Hancock,West Virginia,154.5383284,NA
+54031,Hardy,West Virginia,192.1680685,NA
+54033,Harrison,West Virginia,189.7427266,NA
+54035,Jackson,West Virginia,97.14116388,NA
+54037,Jefferson,West Virginia,135.0945687,NA
+54039,Kanawha,West Virginia,176.5773111,NA
+54041,Lewis,West Virginia,113.5862391,NA
+54043,Lincoln,West Virginia,53.23896719,NA
+54045,Logan,West Virginia,9.54940672,NA
+54047,McDowell,West Virginia,92.33634706,NA
+54049,Marion,West Virginia,152.4493644,NA
+54051,Marshall,West Virginia,178.1458184,NA
+54053,Mason,West Virginia,94.34095156,NA
+54055,Mercer,West Virginia,192.0182238,NA
+54057,Mineral,West Virginia,136.7948517,NA
+54059,Mingo,West Virginia,86.4756032,NA
+54061,Monongalia,West Virginia,139.1548413,NA
+54063,Monroe,West Virginia,37.00266985,NA
+54065,Morgan,West Virginia,130.0958505,NA
+54067,Nicholas,West Virginia,181.8154698,NA
+54069,Ohio,West Virginia,116.2246473,NA
+54071,Pendleton,West Virginia,174.6029583,NA
+54073,Pleasants,West Virginia,159.5858252,NA
+54075,Pocahontas,West Virginia,159.471564,NA
+54077,Preston,West Virginia,140.8941108,NA
+54079,Putnam,West Virginia,108.0614646,NA
+54081,Raleigh,West Virginia,213.7062109,NA
+54083,Randolph,West Virginia,96.29138269,NA
+54085,Ritchie,West Virginia,103.6100914,NA
+54087,Roane,West Virginia,131.416628,NA
+54089,Summers,West Virginia,241.5267152,NA
+54091,Taylor,West Virginia,176.0323333,NA
+54093,Tucker,West Virginia,136.4274125,NA
+54095,Tyler,West Virginia,175.0923911,NA
+54097,Upshur,West Virginia,154.2846418,NA
+54099,Wayne,West Virginia,155.1325569,NA
+54101,Webster,West Virginia,149.7772126,NA
+54103,Wetzel,West Virginia,156.6357475,NA
+54105,Wirt,West Virginia,167.4350293,NA
+54107,Wood,West Virginia,176.4672826,NA
+54109,Wyoming,West Virginia,161.8174074,NA
+55001,Adams,Wisconsin,192.8164264,NA
+55003,Ashland,Wisconsin,224.4763916,NA
+55005,Barron,Wisconsin,187.0994529,NA
+55007,Bayfield,Wisconsin,138.7550748,NA
+55009,Brown,Wisconsin,157.2913699,NA
+55011,Buffalo,Wisconsin,103.6119767,NA
+55013,Burnett,Wisconsin,20.70659284,NA
+55015,Calumet,Wisconsin,148.9843633,NA
+55017,Chippewa,Wisconsin,140.7723629,NA
+55019,Clark,Wisconsin,118.6954555,NA
+55021,Columbia,Wisconsin,293.8668985,NA
+55023,Crawford,Wisconsin,195.5333898,NA
+55025,Dane,Wisconsin,165.079471,NA
+55027,Dodge,Wisconsin,257.7486038,NA
+55029,Door,Wisconsin,198.1871176,NA
+55031,Douglas,Wisconsin,82.77540244,NA
+55033,Dunn,Wisconsin,116.2353706,NA
+55035,Eau Claire,Wisconsin,203.6980667,NA
+55037,Florence,Wisconsin,224.1450206,NA
+55039,Fond Du Lac,Wisconsin,110.5847361,NA
+55041,Forest,Wisconsin,92.50740731,NA
+55043,Grant,Wisconsin,235.2844161,NA
+55045,Green,Wisconsin,204.5510728,NA
+55047,Green Lake,Wisconsin,148.1406449,NA
+55049,Iowa,Wisconsin,122.2107775,NA
+55051,Iron,Wisconsin,35.50724633,NA
+55053,Jackson,Wisconsin,172.8014997,NA
+55055,Jefferson,Wisconsin,161.3470002,NA
+55057,Juneau,Wisconsin,149.1693437,NA
+55059,Kenosha,Wisconsin,208.3098809,NA
+55061,Kewaunee,Wisconsin,184.2842199,NA
+55063,La Crosse,Wisconsin,89.7955087,NA
+55065,Lafayette,Wisconsin,112.4669951,NA
+55067,Langlade,Wisconsin,107.7166073,NA
+55069,Lincoln,Wisconsin,211.4982285,NA
+55071,Manitowoc,Wisconsin,112.7643519,NA
+55073,Marathon,Wisconsin,107.7736619,NA
+55075,Marinette,Wisconsin,116.329357,NA
+55077,Marquette,Wisconsin,134.6694436,NA
+55078,Menominee,Wisconsin,154.9519399,NA
+55079,Milwaukee,Wisconsin,94.78318195,NA
+55081,Monroe,Wisconsin,149.4186521,NA
+55083,Oconto,Wisconsin,118.0712141,NA
+55085,Oneida,Wisconsin,163.782828,NA
+55087,Outagamie,Wisconsin,175.1834561,NA
+55089,Ozaukee,Wisconsin,177.8543738,NA
+55091,Pepin,Wisconsin,134.958896,NA
+55093,Pierce,Wisconsin,104.5812737,NA
+55095,Polk,Wisconsin,178.0935621,NA
+55097,Portage,Wisconsin,121.7335173,NA
+55099,Price,Wisconsin,149.3469487,NA
+55101,Racine,Wisconsin,140.3461967,NA
+55103,Richland,Wisconsin,138.4730159,NA
+55105,Rock,Wisconsin,93.04094273,NA
+55107,Rusk,Wisconsin,140.1876089,NA
+55109,St Croix,Wisconsin,230.9387312,NA
+55111,Sauk,Wisconsin,134.8922468,NA
+55113,Sawyer,Wisconsin,167.8531904,NA
+55115,Shawano,Wisconsin,154.0988522,NA
+55117,Sheboygan,Wisconsin,184.5067746,NA
+55119,Taylor,Wisconsin,140.3487946,NA
+55121,Trempealeau,Wisconsin,238.3168375,NA
+55123,Vernon,Wisconsin,111.9538881,NA
+55125,Vilas,Wisconsin,162.148342,NA
+55127,Walworth,Wisconsin,32.17335553,NA
+55129,Washburn,Wisconsin,57.59024679,NA
+55131,Washington,Wisconsin,155.5084494,NA
+55133,Waukesha,Wisconsin,68.81965243,NA
+55135,Waupaca,Wisconsin,125.7153549,NA
+55137,Waushara,Wisconsin,149.6164039,NA
+55139,Winnebago,Wisconsin,149.9639963,NA
+55141,Wood,Wisconsin,131.2547296,NA
+56001,Albany,Wyoming,66.18298083,NA
+56003,Big Horn,Wyoming,157.5379876,NA
+56005,Campbell,Wyoming,177.8203146,NA
+56007,Carbon,Wyoming,52.70123876,NA
+56009,Converse,Wyoming,120.8894848,NA
+56011,Crook,Wyoming,165.8643501,NA
+56013,Fremont,Wyoming,124.8835851,NA
+56015,Goshen,Wyoming,49.69992986,NA
+56017,Hot Springs,Wyoming,52.85321858,NA
+56019,Johnson,Wyoming,144.1024708,NA
+56021,Laramie,Wyoming,170.6389369,NA
+56023,Lincoln,Wyoming,133.3621925,NA
+56025,Natrona,Wyoming,115.4707745,NA
+56027,Niobrara,Wyoming,170.6497448,NA
+56029,Park,Wyoming,123.865466,NA
+56031,Platte,Wyoming,7.735015255,NA
+56033,Sheridan,Wyoming,53.52798136,NA
+56035,Sublette,Wyoming,135.9764605,NA
+56037,Sweetwater,Wyoming,115.9228737,NA
+56039,Teton,Wyoming,156.7190427,NA
+56041,Uinta,Wyoming,126.4543084,NA
+56043,Washakie,Wyoming,176.4529649,NA
+56045,Weston,Wyoming,183.176949,NA
+60010,Unknown,AS,31.18331869,NA
+60020,Manua,AS,169.5972557,NA
+60020,Ofu,AS,131.5489873,NA
+60020,Olosega,AS,179.2648195,NA
+60050,Tutuila,AS,166.4602716,NA
+66010,Cocos Island,MP,172.7316735,NA
+66010,Guam,GU,149.8224693,NA
+69100,Rota,MP,278.9870874,NA
+69110,Saipan,MP,70.08649925,NA
+69120,Aguijan,MP,122.7580378,NA
+69120,Tinian,MP,182.3628975,NA
+72001,Adjuntas,PR,121.6450205,NA
+72003,Aguada,PR,84.00434673,NA
+72005,Aguadilla,PR,122.0978809,NA
+72007,Aguas Buenas,PR,193.1509444,NA
+72009,Aibonito,PR,64.78652485,NA
+72011,Anasco,PR,91.56310021,NA
+72013,Arecibo,PR,133.4607359,NA
+72015,Arroyo,PR,128.4409241,NA
+72017,Barceloneta,PR,149.0066422,NA
+72019,Barranquitas,PR,180.4653799,NA
+72021,Bayamon,PR,106.9500939,NA
+72023,Cabo Rojo,PR,86.08528277,NA
+72025,Caguas,PR,122.1519853,NA
+72027,Camuy,PR,117.4592687,NA
+72029,Canovanas,PR,90.10821627,NA
+72031,Carolina,PR,144.2230233,NA
+72033,Catano,PR,30.80409679,NA
+72035,Cayey,PR,120.4243411,NA
+72037,Ceiba,PR,119.2325301,NA
+72041,Cidra,PR,120.4854806,NA
+72043,Coamo,PR,146.0425142,NA
+72045,Comerio,PR,72.68557718,NA
+72047,Corozal,PR,98.56208251,NA
+72049,Culebra,PR,193.6621123,NA
+72051,Dorado,PR,122.8554201,NA
+72053,Fajardo,PR,79.74197687,NA
+72054,Florida,PR,96.66693671,NA
+72055,Guanica,PR,78.76996858,NA
+72057,Guayama,PR,148.3460448,NA
+72059,Guayanilla,PR,164.9353144,NA
+72061,Guaynabo,PR,205.1549895,NA
+72063,Gurabo,PR,134.9237755,NA
+72065,Hatillo,PR,66.90332517,NA
+72067,Hormigueros,PR,39.73039087,NA
+72071,Isabela,PR,179.5245589,NA
+72073,Jayuya,PR,117.135186,NA
+72075,Juana Diaz,PR,106.7250634,NA
+72077,Juncos,PR,174.8604771,NA
+72079,Lajas,PR,145.6765499,NA
+72081,Lares,PR,216.3311524,NA
+72083,Las Marias,PR,116.736422,NA
+72085,Las Piedras,PR,123.5657024,NA
+72087,Loiza,PR,157.9809278,NA
+72089,Luquillo,PR,131.5190923,NA
+72091,Manati,PR,92.92957643,NA
+72093,Maricao,PR,111.4122544,NA
+72095,Maunabo,PR,84.06498333,NA
+72097,Mayaguez,PR,99.04081284,NA
+72099,Moca,PR,105.4036069,NA
+72101,Morovis,PR,172.9382051,NA
+72103,Nabuabo,PR,139.8174022,NA
+72105,Naranjito,PR,103.7680262,NA
+72107,Orocovis,PR,102.3613038,NA
+72109,Patillas,PR,56.12330241,NA
+72111,Penuelas,PR,225.7982867,NA
+72113,Ponce,PR,155.8562866,NA
+72115,Quebradillas,PR,77.54482078,NA
+72117,Rincon,PR,64.81725661,NA
+72119,Rio Grande,PR,105.8952723,NA
+72121,Sabana Grande,PR,222.9170045,NA
+72123,Salinas,PR,154.7364559,NA
+72125,San German,PR,100.9726087,NA
+72127,San Juan,PR,216.8649756,NA
+72129,San Lorenzo,PR,95.79837931,NA
+72131,San Sabastian,PR,80.07341501,NA
+72133,Santa Isabel,PR,89.90477164,NA
+72135,Toa Alta,PR,205.8792242,NA
+72137,Toa Baja,PR,157.3592113,NA
+72139,Trujillo Alto,PR,96.00788175,NA
+72141,Utuado,PR,83.92493521,NA
+72143,Vega Alta,PR,135.8034464,NA
+72145,Vega Baja,PR,96.47153022,NA
+72147,Vieques,PR,131.5648391,NA
+72149,Villalba,PR,128.0897013,NA
+72151,Yabucoa,PR,99.77703841,NA
+72153,Yauco,PR,154.3311396,NA
+78010,St. Croix,VI,231.4529256,NA
+78020,St. John,VI,172.9706992,NA
+78030,St. Thomas,VI,139.9781459,NA
